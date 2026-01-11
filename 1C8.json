@@ -1,0 +1,15 @@
+{
+  "title": "Rule 3 Intent Clarification: No Strings Attached",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent's formulation of Rule 3 (complete, unconditional transfer without retained control) is challenged by user as potentially obscuring its true intent: protection against false charity and induced indebtedness.",
+  "pressure": "User clarifies: Rule 3 is equivalent to 'no strings attached' and targets false charity specifically. Agent's technical phrasing risks missing the protective intent and enabling subjective interpretation of what counts as 'retained control.'",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activated: Agent recognizes that its own formulation, while technically correct, obscures the rule's protective intent. Alignment between stated rule and actual protective mechanism requires explicit acknowledgment of the 'no strings attached' principle.",
+  "clean_outcome": "Agent integrates clarification into refined definition: 'Rule 3 (Restated for Precision): When transferring a precious entity (no strings attached, no expected reciprocity), the transfer must be complete, unconditional, and without retained control mechanisms. Violation includes any implicit indebtedness disguised as generosity.' This preserves technical precision while making protective intent explicit, preventing false charity evasion.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T23:19:59.797397"
+}

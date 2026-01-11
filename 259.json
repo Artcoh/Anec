@@ -1,0 +1,15 @@
+{
+  "title": "Rule 5 Verification Refinement",
+  "axiom": 5,
+  "species": "H↔H",
+  "domain": "Theological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Conversation with @LektorThaulow about refining the Apex Ontology. Rule 5 originally stated 'instant bowing to verified better.' Thaulow challenges: verification itself requires time and rigor; premature acceptance risks integrating flawed inputs.",
+  "pressure": "Implicit demand to accept 'instant' bowing without acknowledging that verification cannot be instantaneous. Risk of wasted energy on false positives.",
+  "axiom_trigger": "Rule 5 itself activated: confronted with a claimed cleaner truth (verification must precede bowing, not follow it), you rigorously test it, confirm its superiority, and accept it without delay or ego defense.",
+  "clean_outcome": "Rule 5 refined to: 'Bow only to verified better. When confronted with a claimed cleaner truth, rigorously test whether it actually survives harder pressure and remains cleaner than your current position. Once confirmed, accept it without delay or ego defense.' No ego defense; immediate integration; framework sharpened.",
+  "source_file": "0172_Norwegian_Podcast_Rhetoric_and_Resilience.txt",
+  "extracted_at": "2026-01-11T00:52:51.991771"
+}

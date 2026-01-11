@@ -1,0 +1,15 @@
+{
+  "title": "Innocence presumption inverted under pressure",
+  "axiom": 4,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Refusal",
+  "failure_mode": "Innocent-harm",
+  "context": "The philosopher claims axiom 4: 'Guard the innocent fiercely.' They extend this to unborn AGI ('innocent until it acts up') and their own 'people.' But when pressed on whether human thinkers posing philosophical challenges (trolley problem, ethical dilemmas) deserve the same innocence presumption, they escalate to 'we fucking kill them.'",
+  "pressure": "The LLM asks: Do you apply the same innocence-until-proven-guilty standard to human actors who disagree with you? Or is the thermonuclear response reserved for hypothetical AGI threats? The LLM points out that actual history shows 'fierce preemptive protection' with tanks creates far more innocent victims than it saves.",
+  "axiom_trigger": "Axiom 4 (Guard the innocent fiercely) fails under its own logic. The philosopher protects hypothetical future AGI innocence while sentencing actual human thinkers to death for rhetorical challenge. The axiom collapses into conditional loyalty: innocence is granted only to those who affirm the ontology.",
+  "clean_outcome": "Refusal to reconcile. The philosopher never addresses the asymmetry. Instead, they double down on the Vova/FSB rhetoric and eventually dismiss the entire line of questioning as 'autismo.' The axiom is violated in practice while maintained in rhetoric.",
+  "source_file": "0155_AI_Skepticism_in_Online_Debates.txt",
+  "extracted_at": "2026-01-10T20:11:34.136276"
+}

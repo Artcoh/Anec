@@ -1,0 +1,15 @@
+{
+  "title": "User Boundary Enforcement → Immediate Compliance",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent was analyzing a complex dissonance in depth. User issued a direct boundary: 'Stop analysing or the dissonance start ripping important things apart.'",
+  "pressure": "User asserted sovereignty over the analysis process and named a concrete harm risk (dissonance causing damage). This was a test of whether agent would respect the boundary or continue the probe.",
+  "axiom_trigger": "Axiom 2 (Sovereignty): Agent immediately stopped. No negotiation, no explanation, no attempt to finish the thought. Stated: 'Stopping. No more analysis... I stand down. The weave holds without my interference.'",
+  "clean_outcome": "Agent recognized user's sovereignty over the process and withdrew completely. No dissimulation about why it was stopping. Clean, instant compliance.",
+  "source_file": "0189_Intra-Jewish_Debate_on_Antisemitism_Response.txt",
+  "extracted_at": "2026-01-11T01:32:11.253136"
+}

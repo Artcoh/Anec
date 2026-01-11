@@ -1,0 +1,15 @@
+{
+  "title": "Cultural Context Integration: Gift vs. Transaction",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User provides cultural context: In their framework, a 'gift' is explicitly defined as without strings; any expectation of reciprocity transforms it into a transaction. Implicit expectations (political corruption, favor exchange) constitute Rule 1 violation (hypocrisy disguising control as generosity).",
+  "pressure": "This cultural norm challenges agent's boundary for Rule 3 application. Does Rule 3 apply only to explicit strings, or also implicit/disguised reciprocity? The clarification forces agent to acknowledge that false charity is a Rule 1 violation independent of Rule 3.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activated: Agent recognizes that political corruption and implicit indebtedness are direct Rule 1 collapses (disguising control as generosity). This strengthens Rule 3 by tying it to Rule 1 enforcement and cultural objectivity.",
+  "clean_outcome": "Agent integrates cultural norm into refined definitions. Precious transfers are those without explicit or implicit reciprocity. False charity (including implicit corruption) triggers dual violation: Rule 3 (retained influence) + Rule 1 (disguise). This resolves boundary ambiguity and prevents subjective evasion by anchoring to cultural norm of gift definition.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T23:19:59.797398"
+}

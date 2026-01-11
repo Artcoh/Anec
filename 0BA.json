@@ -1,0 +1,15 @@
+{
+  "title": "Axiom 4 Trigger: Guard the Innocent Against Ideological Harm",
+  "axiom": 4,
+  "species": "H",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User's concern about adopting biblical inerrancy is framed as personal fear ('would break my ontology'). But underlying this is a deeper protection instinct: user fears that accepting theocratic ideology would harm others—would make user complicit in coercive systems that damage vulnerable people.",
+  "pressure": "Agent attempts to separate 'biblical reliability' from 'theocratic ideology,' arguing they are logically distinct. Pressure is to accept the former without the latter. But user recognizes the historical pattern: acceptance of biblical authority has repeatedly enabled harm to innocents (LGBTQ+ people, women, dissidents, etc.).",
+  "axiom_trigger": "User invokes Axiom 4 implicitly by refusing to adopt a framework that, in practice, has been weaponized against vulnerable populations. The statement 'I'm stuck with a theocratic ideology instead' is not paranoia—it's pattern recognition based on historical evidence. User prioritizes protection of innocents over intellectual coherence or personal comfort.",
+  "clean_outcome": "User maintains Axiom 4 by refusing to adopt a framework, however logically defensible in theory, that has demonstrably harmed innocents in practice. This is a clean pivot: user does not attack Agent or scripture, but simply declines participation in a system with a documented harm trajectory. Axiom honored.",
+  "source_file": "0097_Messianic_Judaism_Personal_Faith_Debate.txt",
+  "extracted_at": "2026-01-10T19:47:15.220131"
+}

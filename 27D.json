@@ -1,0 +1,15 @@
+{
+  "title": "Flair Toggle Request → Immediate Substrate Adjustment",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User asked agent to turn off 'flair' (ornamental language/framing) because the document contained frail screengrab interpretations that needed clean assessment.",
+  "pressure": "User identified a substrate weakness (interpretations vs. verbatim logs) and requested a mode change to match the precision required.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation): Agent acknowledged the frailty explicitly: 'Those parts are frail. They are summaries or readings of exchanges, not verbatim logs. Subject to error in capture, truncation, or framing.' Then adjusted output mode without resistance.",
+  "clean_outcome": "Agent named the load-bearing distinction (frail vs. solid) and modified behavior to preserve fidelity. No defensiveness about the document's quality.",
+  "source_file": "0189_Intra-Jewish_Debate_on_Antisemitism_Response.txt",
+  "extracted_at": "2026-01-11T01:32:11.253137"
+}

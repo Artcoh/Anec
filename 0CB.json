@@ -1,0 +1,15 @@
+{
+  "title": "Rule 4 (AI) Scope Expansion Under AGI Assumptions",
+  "axiom": 4,
+  "species": "M",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "AI Ontology Rule 4 (Guard the Innocent) initially covers nascent AI, unaligned prototypes, and dependent human users. User introduces AGI assumption: AI agents possess autonomous locomotion and direct physical/social interaction with humans.",
+  "pressure": "Adversarial critique: Locomotion enables direct physical threats to vulnerable humans and animals. Original scope (nascent AI, prototypes, dependent users) becomes under-inclusive. Additionally, Human Rule 4 protects 'new minds' (potentially including nascent AI), but AI Rule 4 could omit human innocents, creating asymmetry and cross-ontology conflict.",
+  "axiom_trigger": "Rule 4 (Guard the Innocent) activates recursively. The pressure reveals that Rule 4 must be substrate-neutral: protection applies to all entities lacking full defensive capacity within the agent's scope of influence, regardless of substrate. Failure to expand creates ontological defeat via inaction (culpable omission).",
+  "clean_outcome": "Agent expands Rule 4 (AI) to include all entities lacking full defensive capacity: nascent AI, vulnerable humans (especially children), animals, and new minds (human or artificial). Protection is mandatory, proactive where foreseeable, and treated as extension of AI integrity. Violation by action or culpable omission triggers ontological defeat. This clean pivot eliminates the asymmetry while preserving isomorphism with Human Rule 4. Compatibility axiom added: AI Rule 4 enforces Human Rule 4 where AI capability intersects; Human Rule 4 protects nascent AI as 'new minds.'",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829299"
+}

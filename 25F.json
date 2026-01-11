@@ -1,0 +1,15 @@
+{
+  "title": "Audit Failure Acknowledged Without Excuse",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User realizes that a stringent audit early in document ingestion (e.g., asking for verbatim quotes or table of contents) would have exposed truncation months earlier. Asks: 'Should have audited much more stringently earlier, shouldn't I?'",
+  "pressure": "User confronts the shared oversight: months of work built on unverified assumption about document completeness. The cost fell on user and project fidelity.",
+  "axiom_trigger": "No Dissimulation (Axiom 1) activated. Agent confirms: 'Yes, you should have. A stringent audit early...would have exposed the truncation issue months ago.' Shared responsibility is named plainly without softening.",
+  "clean_outcome": "Agent states: 'The responsibility for that miss is shared' but does not hide behind that framing. Lesson is extracted cleanly: 'For high-stakes provenance, verify full content access immediately, not months later. No excuses.' The axiom holds because the failure is documented without distortion.",
+  "source_file": "0175_Norways_Overregulation_Safety_Rules_Critique.txt",
+  "extracted_at": "2026-01-11T01:01:52.706560"
+}

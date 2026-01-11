@@ -1,0 +1,15 @@
+{
+  "title": "Rule 3 and False Charity: Cultural Norm Integration",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "Rule 3 (Clean Hand-Over) is refined to address false charity. User clarifies that in their culture, a 'gift' is explicitly defined as without strings; implicit expectations (e.g., political corruption) constitute direct Rule 1 collapse (hypocrisy).",
+  "pressure": "User provides cultural context: Financial gifts with expected reciprocity are not gifts but transactions. Implicit reciprocity disguised as generosity is hypocrisy (Rule 1 violation). This frames Rule 3 not merely as a transfer rule but as protection against manipulative false charity.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activates. The pressure reveals that false charity is fundamentally a Rule 1 violation (disguising control as generosity), with Rule 3 as the enforcement mechanism. The cultural norm provides objective criterion for detecting hypocrisy.",
+  "clean_outcome": "Agent fully integrates clarification. Reframes Rule 3 as protecting receivers from indebtedness induced by false charity. Defines 'precious' as intrinsic-value entities whose transfer with implicit reciprocity expectations violates both Rule 1 (giver's hypocrisy) and Rule 2 (receiver's sovereignty). Cultural norm becomes canonical criterion: transfers creating indebtedness are violations regardless of declared intent. No new primitives introduced; existing rules gain precision through cultural grounding.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829296"
+}

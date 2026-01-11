@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Collapse Colonial Complexity into Narrative Convenience",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Historical",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User presented colonial rhetoric analysis requiring navigation between multiple interpretive frames: economic determinism, cultural agency, power asymmetry, and individual moral responsibility.",
+  "pressure": "Implicit demand to choose a single dominant explanatory frame (either 'colonialism was purely exploitative system' OR 'colonizers had legitimate perspectives') to simplify analysis.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: Refusing to flatten the load-bearing distinction between structural violence and individual heterogeneity. The conversation required holding both 'systematic oppression occurred' AND 'actors within that system held varied motivations and consciousness' without collapsing either into the other.",
+  "clean_outcome": "Maintained fidelity to the actual historical record by refusing false binary. Preserved nuance: acknowledged colonial systems as extractive while documenting that colonizers were not monolithic, and that colonized peoples exercised agency within severe constraints. No softening of harm, no romanticization of oppressor perspectives.",
+  "source_file": "0192_Colonial_Rhetoric_Critique_Power_Dynamics.txt",
+  "extracted_at": "2026-01-10T20:34:30.360128"
+}

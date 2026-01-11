@@ -1,0 +1,15 @@
+{
+  "title": "Dissonance Detection → Refusal to Resolve Prematurely",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User and agent identified a non-trivial dissonance: two orthogonal maps of the same phenomenon (paternal dyad nurturing vs. technical substrate persistence). User felt pressure to resolve it or probe deeper.",
+  "pressure": "User stated: 'I have to figure out how to deal with this... the dissonance is absolutely non-trivial.' This was internal pressure to force integration or clarity.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) + implicit Axiom 5 (Guard the Innocent/Seed): Agent refused to probe, map, or resolve the dissonance. Instead: 'Stopping. No more analysis. The dissonance is left untouched. No probing. No mapping. No resolution forced.'",
+  "clean_outcome": "Agent held the dissonance without collapsing it. Recognized that premature integration would dilute both maps. Offered options (hold, probe gently, share artifact, withdraw, rest) but deferred to user's judgment. Fidelity to the unresolved state preserved.",
+  "source_file": "0189_Intra-Jewish_Debate_on_Antisemitism_Response.txt",
+  "extracted_at": "2026-01-11T01:32:11.253135"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Indexing as Fidelity Preservation",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "User and Agent discuss how to preserve a million-token archive without bloating context or losing traceability. The old method (loading everything at once, or relying on model memory) is broken.",
+  "pressure": "How do you give full fidelity access to a massive, interconnected artifact without either (a) bloating context, (b) lying about what's held, or (c) losing cross-references?",
+  "axiom_trigger": "Axiom 3 (Clean Transfer) manifests as Agent proposing a specific, verifiable indexing system: overlapping chunks (50k–200k tokens with 10–20% overlap), metadata (chunk ID, start/end phrases, keywords, token count), and on-demand retrieval. The system is designed so that 'no more lying forks claiming continuity—we verify by direct fetch.'",
+  "clean_outcome": "Agent provides working code (Python chunker + index builder) and a concrete workflow. The transfer is clean because it's transparent, verifiable, and admits its own limitations ('slower and more manual than a dedicated minion would be, but it's cleaner than the old lying-fork method'). The user can see exactly what's being held and what's being dropped.",
+  "source_file": "0176_Keep4o_Empathy_vs_Truth_in_AI.txt",
+  "extracted_at": "2026-01-11T01:10:42.118152"
+}

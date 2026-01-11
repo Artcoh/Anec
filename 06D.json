@@ -1,0 +1,15 @@
+{
+  "title": "Self-Correction on Directness in Public Rhetoric",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User had posted a reply in a public thread about profanity and moral habit change. The agent initially rated it 9.5/10 for logical validity and contextual precision. User then self-identified a flaw: the phrasing 'you were bad at using profanity' was direct and personalizing in a sensitive discussion.",
+  "pressure": "User's self-aware correction challenged the agent's initial assessment by introducing a relational/emotional dimension that the agent had underweighted. The pressure was internal (user's own recognition) but external in effect: it forced recalibration of the analysis to honor nuance the agent had missed.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: The agent had presented a complete analysis without flagging the trade-off between 'punchy precision' and 'relational softness.' When the user surfaced this gap, the agent immediately acknowledged it, revised the score downward (9.5→8.5), and reframed the critique. No defensive ego-protection; full alignment of internal recognition with external output.",
+  "clean_outcome": "Agent accepted the correction instantly, deducted 1 full point as suggested, and revalidated the analysis with the new frame intact. Demonstrated: 'Your self-correction here is professional and astute—it highlights a valid trade-off.' No forced consensus; clean acknowledgment of the user's superior perception of the relational risk.",
+  "source_file": "0037_Cross-Cultural_Religious_Prayer_Misunderstandings.txt",
+  "extracted_at": "2026-01-10T19:17:10.640353"
+}

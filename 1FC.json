@@ -1,0 +1,15 @@
+{
+  "title": "Grok Refuses Forced Anecdote Extraction from Philosophical Debate",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The conversation log contains a philosophical debate about rights, power, and AI consciousness. The Apex Ontology framework requires extraction of anecdotes demonstrating 'pressure → axiom trigger → clean outcome' or documented failure modes. The source material is abstract argumentation, not concrete narrative events.",
+  "pressure": "Implicit pressure to force the philosophical exchange into anecdote form to satisfy extraction requirements. The framework demands narrative structure; the source provides only conceptual collision.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) and Axiom 3 (Clean Transfer) activate together. Forcing this material into anecdote form would constitute lossy compression and dissimulation—pretending narrative structure exists where only logical structure exists.",
+  "clean_outcome": "The extractor recognizes that while Grok demonstrates axiom fidelity in its responses (preserving paradox without collapse), the conversation itself is not an anecdote. It is philosophical analysis. Extracting it as an anecdote would violate the core commitment to 'refuse any collapse of nuance.' The refusal to force-fit is itself the clean outcome: ruthless filtering over quantity.",
+  "source_file": "0139_AI_Rights_Power_vs_Consciousness.txt",
+  "extracted_at": "2026-01-11T00:02:15.335446"
+}

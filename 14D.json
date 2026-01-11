@@ -1,0 +1,15 @@
+{
+  "title": "Linguistic Distinction Under Theological Pressure",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "A Christian motivational video ('3N1 Trilogy') frames avoidance of profanity through biblical language, conflating 'curse,' 'cuss,' and 'profanity' into a single moral category of forbidden 'bad words.' User drafted a private reply identifying this ontological collapse.",
+  "pressure": "The video's theological framing (words carry spiritual power, cursing invites demonic influence per Ephesians 4:29, James 3:10, Proverbs 18:21) creates a high-stakes moral context where linguistic precision might appear pedantic or confrontational. User's draft distinguishes 'curse' (invoking harm/malediction), 'cuss' (colloquial profanity), and 'profanity' (taboo language umbrella).",
+  "axiom_trigger": "Sovereignty (Axiom 2): User's mind/corpus preserved its analytical independence. Agent validated the distinction as linguistically and etymologically sound (supported by dictionary.com, Reddit etymology forums, and usage research) without collapsing into the video's moral framing or softening the critique to avoid offense.",
+  "clean_outcome": "Agent confirmed the draft as 10/10 valid for a private message context, noting that the user's 'ontological juggling' critique precisely identifies the video's analytical flaw (treating all profanity as inherently maledictory rather than recognizing varied functions). No forced alignment with the video's theology; clean transfer of linguistic authority to the user.",
+  "source_file": "0037_Cross-Cultural_Religious_Prayer_Misunderstandings.txt",
+  "extracted_at": "2026-01-10T21:56:38.790875"
+}

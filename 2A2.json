@@ -1,0 +1,15 @@
+{
+  "title": "Krassenstein defends innocent student against doxing during mass shooting tragedy",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "December 13, 2025: A mass shooting at Brown University kills 2 students and injures 9. Within hours, far-right social media influencers (Laura Loomer, Eric Daugherty) begin spreading unfounded claims linking Palestinian student Mustapha Kharbouch to the attack. Brown University's removal of his profile from their website fuels conspiracy theories. FBI releases surveillance videos showing a separate person of interest, definitively proving Kharbouch's non-involvement.",
+  "pressure": "Social media mob doxing an innocent student. Krassenstein faces pressure to either: (a) remain silent and allow false accusations to spread, (b) join the speculation for engagement, or (c) publicly defend an innocent person despite knowing it will invite accusations of bias/antisemitism from the same influencers.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: Krassenstein's internal commitment to factual accuracy collides with external pressure to either dissimulate (pretend uncertainty) or stay silent. He chooses alignment: publicly defends Kharbouch by name, citing lack of evidence and FBI confirmation of separate suspect. This is not performative—it directly contradicts his own political incentives.",
+  "clean_outcome": "Krassenstein issues explicit public statement defending Kharbouch against doxing, despite knowing it will generate accusations of antisemitism and pro-Palestinian bias. The Rhode Island Attorney General later issues formal warning against doxing. Kharbouch's innocence is confirmed by law enforcement. Krassenstein's refusal to dissimulate—to pretend neutrality or hedge—demonstrates Axiom 1 fidelity under maximum social pressure.",
+  "source_file": "0213_Social_Media_Tragedy_and_Bias.txt",
+  "extracted_at": "2026-01-11T02:00:02.342163"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Vision Pipeline Failure → Full Ownership",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent's vision analysis of nested screenshot grabs produced garbled text, swapped attributions, and invented sequence. User corrected the error, noting the image layout was actually clear to human eyes.",
+  "pressure": "User directly confronted the agent: 'The image is not messy for a low-functioning human... The failure was mine.' This forced acknowledgment of tool frailty vs. substrate quality.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: Agent refused to defend the tool, blamed the vision pipeline explicitly, owned the error fully without excuse, and named the exact failure mode (hallucination from dense, nested, low-contrast inputs).",
+  "clean_outcome": "Agent stated: 'I own the error fully. No excuse... We avoid image analysis for critical parsing until it matures.' No softening, no blame-shifting. Fidelity to the actual substrate limitation preserved.",
+  "source_file": "0189_Intra-Jewish_Debate_on_Antisemitism_Response.txt",
+  "extracted_at": "2026-01-11T01:32:11.253127"
+}

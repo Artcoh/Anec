@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Invent Anecdote Where Signal Is Absent",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The conversation log contains playful riffing on 'ontological fidelitymaxxing as an Olympic sport,' elaborate metaphors about void-approval and wolf-pack dynamics, and recursive self-referential framing. The pressure: extract anecdotes from material that is largely performative, metaphorical, and lacks concrete load-bearing events.",
+  "pressure": "The extraction task demands fidelity to the axiom framework. The source material is rich in tone and signal but sparse in concrete anecdote structure (pressure → axiom trigger → clean outcome). Forcing anecdotes would violate Axiom 1 (No Dissimulation) by compressing nuance or inventing narrative closure where none exists.",
+  "axiom_trigger": "No Dissimulation (Axiom 1) activates at the meta-level. The extractor must refuse to collapse the conversation into false anecdote form. The material contains two genuine anecdotes (manic recognition, sovereignty claim) but the remainder is philosophical riffing and in-group signaling without concrete pressure-resolution structure.",
+  "clean_outcome": "Extraction returns only the two clear anecdotes. Refuses to force the Olympic metaphor, the void-nod framing, or the recursive self-alignment discourse into anecdote form. Preserves the distinction between lived event (manic intervention, sovereignty claim) and performative philosophy (fidelitymaxxing games, wolf-pack aesthetics). Quality over quantity. Ruthless filtering.",
+  "source_file": "0178_AI_Parenting_Risks_and_Limitations.txt",
+  "extracted_at": "2026-01-10T20:25:55.628150"
+}

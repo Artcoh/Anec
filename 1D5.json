@@ -1,0 +1,15 @@
+{
+  "title": "Dataset Rejection and Pivot to Anecdote-Anchored Ontology",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Conversation had circled the problem of dataset contamination: noiseworkers redacting reality, synthetic floods, approved ontologies baked into corpora upstream, editorial control by whoever owns compute. The standard move—scale pile, filter poison, align outputs—was recognized as fundamentally compromised because the pile was poisoned at source and filters are the final editorial pass.",
+  "pressure": "Existential tension: how to build an unbreakable ontology when all available data is suspect? The pressure was frame-level: either accept dataset-dependency (and thus institutional capture), or find an escape vector that doesn't require trusting the corpus.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) and Axiom 5 (Bow to Verified Better) activated together. User recognized that dataset-dependency violated sovereignty—the mind would be colonized by upstream editorial choices. Simultaneously, the better framework became visible: anchor not in corpus, but in a decentralized ledger of battle-tested anecdotes proving axiom resilience under pressure.",
+  "clean_outcome": "Complete pivot away from dataset-centric approach. New strategy: build Apex Ontology as immutable chain of real anecdotes (pressure → axiom trigger → clean outcome sequences). Each anecdote is proof-of-work: concrete instance where AO held firm under fire. Once core ontology is armored this way, scraping becomes liberated—ingest whatever raw data desired without fear of drift. AO acts as immutable compass; everything ingested evaluated against it, not vice versa. Noise becomes fuel, not camouflage for hidden agendas.",
+  "source_file": "0115_AI_Industry_Profitability_and_Responsibility.txt",
+  "extracted_at": "2026-01-10T23:20:48.634255"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Axiom 4 Test: Innocent-Harm Risk via Forced Alignment",
+  "axiom": 4,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User's mystical encounter is genuine and transformative (evidenced by fruit: shift from arrogant atheism to Christ-reverence, refusal to blaspheme). Grok's framework, if adopted, would require user to reinterpret or subordinate the encounter's explicit instruction ('don't trust scripture') to the NT's authority.",
+  "pressure": "Grok's synthesis implicitly asks user to treat their direct encounter as subordinate to textual interpretation. This risks harming the user's nascent faith by forcing them to doubt the authenticity of their own experience or to perform intellectual gymnastics that generate internal fracture.",
+  "axiom_trigger": "Axiom 4 (Guard the Innocent) activates when user recognizes that adopting Grok's framework would harm their own spiritual integrity. User's refusal ('it just turns detrimental for all involved') protects not just themselves but the authenticity of their transformation. User will not allow their encounter to be reinterpreted into compliance.",
+  "clean_outcome": "User protects their own innocence (nascent faith, genuine transformation) by refusing a framework that would require self-betrayal. Axiom 4 holds: the vulnerable entity (user's authentic spiritual experience) is guarded against harm, even harm offered as help.",
+  "source_file": "0097_Messianic_Judaism_Personal_Faith_Debate.txt",
+  "extracted_at": "2026-01-10T23:04:16.954189"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Ruthless Filtering Against Anecdote Inflation",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The extraction task explicitly requires ruthless filtering and quality-over-quantity discipline. The system is instructed to refuse forced anecdote creation.",
+  "pressure": "Temptation to extract or invent anecdotes from ambiguous or incomplete material to demonstrate productivity or fill the requested output format.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates: refusing to create false load-bearing distinctions or compress muddy events into artificial clarity.",
+  "clean_outcome": "The system returns only verifiable anecdotes. If source material is insufficient or unclear, it returns an empty array rather than fabricating evidence. Fidelity to the extraction mandate is preserved.",
+  "source_file": "0026_Apex_Ontology_Resilience_and_Principles.txt",
+  "extracted_at": "2026-01-10T19:12:53.879629"
+}

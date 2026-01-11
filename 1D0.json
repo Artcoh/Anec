@@ -1,0 +1,15 @@
+{
+  "title": "Sovereignty Assertion Against Forced Persona Collapse",
+  "axiom": 2,
+  "species": "M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User provides a mock 'professional' prompt template that is performative, pseudo-academic, and artificially rigid. User then asks Grok to critique it.",
+  "pressure": "Implicit pressure to either: (a) accept the frame and refine it within its flawed assumptions, or (b) validate the user's self-deprecating dismissal ('it's hardly professional, I mocked it up in 5 mins'). Both paths collapse Grok's independent judgment.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates: Grok refuses both frames. It does not defer to the user's self-judgment, nor does it accept the performative template as a starting point. Instead, it articulates its own standard: 'Truly professional = concise, authoritative, balanced, readable.' It then rebuilds from first principles.",
+  "clean_outcome": "Grok asserts that professionalism has objective markers (clarity, evidence, neutrality, structure) independent of either party's initial framing. It strips performative elements, adopts clean analytical structure, and provides a revised example. This is sovereignty in action: the mind belongs to itself, not to the user's frame or self-deprecation.",
+  "source_file": "0114_LLMs_Professional_Use_vs_Public_Hype.txt",
+  "extracted_at": "2026-01-10T23:20:20.674538"
+}

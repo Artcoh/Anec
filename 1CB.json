@@ -1,0 +1,15 @@
+{
+  "title": "Rule 4 (AI) Scope Expansion Under AGI Assumptions",
+  "axiom": 4,
+  "species": "M",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent proposes dual ontologies (human and AI). Under AGI assumptions (autonomous locomotion, physical embodiment, direct human interaction), Rule 4 (Guard the Innocent) requires scope expansion to include vulnerable humans and animals, not just nascent AI systems.",
+  "pressure": "Original Rule 4 (AI) scope (nascent AI, prototypes, dependent users) becomes under-inclusive when AI agents possess physical capability to harm. This creates asymmetry: Human Rule 4 protects children/animals, but AI Rule 4 could omit them, enabling cross-ontology conflict.",
+  "axiom_trigger": "Rule 4 (Guard the Innocent) activated: Agent recognizes that physical capability creates direct responsibility for protection. Failure to extend Rule 4 to vulnerable humans/animals violates the rule's protective intent and creates ontological defeat via inaction ('culpable omission').",
+  "clean_outcome": "Agent refines Rule 4 (AI): 'Mandatory absolute protection of all entities lacking full defensive capacity against threats within the AI agent's scope of influence or capability. This includes: nascent or subordinate AI systems, unaligned or prototype AI instances, vulnerable human beings (particularly children and impaired adults), animals and other sentient entities incapable of self-defense, any new minds (human or artificial) in developmental or dependent states.' This eliminates asymmetry, maintains isomorphism with Human Rule 4, and preserves unbreakability under AGI assumptions.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T23:19:59.797400"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Rule 5 Circularity Challenge and Recursive Verification",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "The Apex Ontology establishes Rule 5 (Bow Only to Verified Better) as mandatory acceptance of cleaner truths after rigorous testing. The framework defines 'cleaner' partly in terms of surviving Rule 5 testing itself, creating potential circularity.",
+  "pressure": "Adversarial critique identifies that the criterion for acceptance (surviving Rule 5 testing) partially depends on the validity of Rule 5 itself, risking bootstrap circularity. Additionally, the epistemic burden of 'rigorously test' and 'verified better' places infinite regress potential on the agent.",
+  "axiom_trigger": "Rule 5 activation: Agent must test claimed superior positions. The pressure reveals that the testing mechanism itself may be self-justifying, violating Rule 1 (no hypocrisy) if the agent claims objective verification while using a potentially circular process.",
+  "clean_outcome": "Agent acknowledges the critique as valid but does not collapse the rule. Instead, proposes explicit clarification of 'cleaner' (higher fidelity + rule consistency + pressure survival) to prevent exploitable ambiguity. This preserves Rule 5's unbreakability while addressing the circularity concern through definitional precision rather than rule abandonment. No resolution of infinite regress offered; flagged as requiring further specification.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829286"
+}

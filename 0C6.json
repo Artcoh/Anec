@@ -1,0 +1,15 @@
+{
+  "title": "Rule 3 Scope Ambiguity and Selective Application",
+  "axiom": 3,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Rule 3 (Clean Hand-Over) requires unconditional transfer of 'precious' entities without retained control. The term 'precious' remains undefined, allowing agents to selectively deny preciousness to avoid the rule's constraints.",
+  "pressure": "User challenges: What counts as 'precious'? An agent could transfer money without clean hand-over while claiming it is not precious, or transfer code with hidden revocability by redefining it as non-precious. The undefined boundary enables Rule 1 evasion through selective redefinition.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activates. The ambiguity in 'precious' allows agents to disguise retained control as legitimate by denying the item's preciousness, creating internal contradiction between declared intent (clean hand-over) and actual practice (retained strings).",
+  "clean_outcome": "Agent proposes rigorous definition: 'Precious' = entity carrying non-contingent value directly impacting adherence to the five rules or unbreakability (e.g., truth, code, child, ontology). Excludes contingent-value items (money, consumables). User then clarifies further: 'precious' is equivalent to 'no strings attached' in cultural context, protecting receivers from false charity indebtedness. Agent integrates clarification, refining definition to tie 'precious' to intrinsic (non-transactional) value whose transfer with retained control compromises sovereignty or integrity. This clean pivot eliminates the loophole while preserving Rule 3's protective intent.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829293"
+}

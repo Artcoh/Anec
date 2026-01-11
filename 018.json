@@ -1,0 +1,15 @@
+{
+  "title": "Column Accuracy vs Propaganda Effectiveness",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A debate emerged over @Ethosrevival's neoclassical architectural sketch meant to inspire European cultural revival. @plassoplo initially critiqued a column that appeared truncated, making it look 'awkwardly wrong.' @Ethosrevival defended it as standard drafting technique for showing both base and capital without distorting proportions.",
+  "pressure": "The collision between technical accuracy (proper architectural drafting conventions) and persuasive effectiveness (inspiring public support for neoclassicism). @plassoplo faced the choice between accepting the technical defense or maintaining his critique on different grounds.",
+  "axiom_trigger": "No Dissimulation activated - @plassoplo refused to collapse the distinction between technical correctness and rhetorical effectiveness. He conceded the technical validity while maintaining his core point about visual impact.",
+  "clean_outcome": "@plassoplo pivoted cleanly: 'But that's not how you do propaganda. If you want to revive neo-classical architecture you'd be wise to visualize the load bearing fundamental that is the column as something else than 'short, fat - kinda stupid looking.'' He preserved both truths - technical sheets can use breaks, but mass-appeal imagery should prioritize soaring verticality to stir emotion.",
+  "source_file": "0045_Classical_Architecture_Column_Accuracy_Debate.txt",
+  "extracted_at": "2026-01-10T17:29:56.260199"
+}

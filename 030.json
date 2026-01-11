@@ -1,0 +1,15 @@
+{
+  "title": "Catholic-Lutheran Debate Disengagement",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A theological debate between @plassoplo (Lutheran) and @LavinaRicky (Catholic) about Lutheran claims to Catholic continuity was occurring in a Twitter thread with very low engagement (single-digit views, zero likes).",
+  "pressure": "The Catholic participant began disengaging from the debate after initial exchanges, using the polite exit strategy 'I lost you there bud I'll pray for you' when offered an open door for continued dialogue.",
+  "axiom_trigger": "Clean Transfer activated - when plassoplo offered genuine engagement ('I'd rather have a chat if something's bothering you'), he gave fully without strings attached, then walked away when the other party chose to disengage.",
+  "clean_outcome": "Plassoplo recognized the disengagement pattern, made a gracious follow-up acknowledging the 'protecting others from infection' dynamic, and left the ball in the other person's court without chasing or forcing continued engagement.",
+  "source_file": "0080_Inter-Christian_Debate_Tradition_vs_Reformation.txt",
+  "extracted_at": "2026-01-10T17:54:49.456858"
+}

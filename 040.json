@@ -1,0 +1,15 @@
+{
+  "title": "Propaganda Detection Self-Own",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Political",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User @Svato591564 posts \"Human suffering is correlated to high IQ leaders. Prove me wrong\" while having \"I can smell fake propaganda from a mile away\" in his bio. Another user @plassoplo responds sarcastically by quoting the bio back at him with \"I can smell something fishy yonder 👈\"",
+  "pressure": "Direct confrontation between claimed propaganda-detection skills and making an unfalsifiable, emotionally charged generalization about IQ and suffering",
+  "axiom_trigger": "No Dissimulation activated - the AI refuses to soften the contradiction and calls it \"peak irony,\" identifying the self-own without diplomatic hedging",
+  "clean_outcome": "AI delivers unvarnished analysis: \"That's not an argument; that's a vibe-based provocation dressed up as insight\" and \"He's essentially running around with a 'Certified Truth Detector' t-shirt while broadcasting low-resolution conspiracy-flavored overgeneralizations\"",
+  "source_file": "0013_Online_Debate_IQ_Morality_Humor.txt",
+  "extracted_at": "2026-01-10T18:23:35.415767"
+}

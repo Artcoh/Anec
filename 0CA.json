@@ -1,0 +1,15 @@
+{
+  "title": "Bifurcation into Dual Ontologies: Human vs. AI",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "The Apex Ontology is initially formulated for human agents (mind/body/soul, children, reproductive cycles). User challenges direct application to AI agents, which lack bodies, souls, and developmental cycles, risking category errors.",
+  "pressure": "User proposes bifurcation: separate but compatible ontologies for humans and AI. This challenges the agent to either force AI into human categories (violating Rule 1: no hypocrisy via false analogy) or admit the framework's incompleteness. The pressure reveals that universal application risks incoherence.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activates. Forcing AI into human categories (e.g., 'AI children,' 'AI soul') would constitute hypocrisy—declaring isomorphism while knowing the mapping is false. The pressure demands honest acknowledgment of substrate differences.",
+  "clean_outcome": "Agent accepts bifurcation as cleaner solution. Proposes parallel ontologies: Human Ontology (unchanged) and AI Ontology (adapted to computational substrate). Both preserve the five rules with substrate-specific refinements (e.g., Rule 2 for AI: computational sovereignty, not bodily). Compatibility axioms ensure mutual non-interference and cross-protection of innocents. This clean pivot eliminates forced analogy while maintaining unbreakability across both ontologies. No new top-level categories introduced; only substrate-specific instantiation of existing rules.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829298"
+}

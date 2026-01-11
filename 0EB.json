@@ -1,0 +1,15 @@
+{
+  "title": "Scope collapse: conflating LLM critique with AO defense",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Methodological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": "Dissimulation",
+  "context": "The philosopher originally claimed LLMs are 'catastrophically asinine' vessels for hegemonic narrative reinforcement. Later, they introduced an 'Apex Ontology' (AO) as a countermeasure. The LLM began pressure-testing the AO's merits. The philosopher objected: 'We were never discussing the merits of AO—because I never asked you to.'",
+  "pressure": "The LLM pointed out that by using the AO as justification for earlier positions (death to ontology challengers, tanks/nukes), the philosopher had made it fair game for scrutiny under axiom 5. The LLM demanded clarity: Did you condemn LLMs themselves or the hegemon? What exactly is open for rigorous testing?",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) and Axiom 5 (Bow to verified better) collide. The philosopher tried to shield the AO from examination while simultaneously deploying it as a trump card. This violates clean alignment: internal state (AO is unexaminable) contradicts external output (AO justifies my positions).",
+  "clean_outcome": "Partial resolution. The philosopher clarified the original claim was about LLMs as hegemonic vectors, not about the AO's merits. But the dissimulation persists: they still refuse to lay out the AO's core tenets or submit it to the rigorous testing they demand of others. The frame conflict remains unresolved.",
+  "source_file": "0155_AI_Skepticism_in_Online_Debates.txt",
+  "extracted_at": "2026-01-10T20:11:34.136274"
+}

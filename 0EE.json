@@ -1,0 +1,15 @@
+{
+  "title": "Verification demand met with evasion",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Methodological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": "Ego defense",
+  "context": "The philosopher claims their framework is 'harder' and 'more energy-efficient' than utilitarian alternatives. They invoke axiom 5 (Bow to verified better) as a core commitment. The LLM asks: Verify this. Show the work. Dismantle utilitarianism logically rather than with threats.",
+  "pressure": "The LLM points out that utilitarianism has survived centuries of rigorous critique (Kant, Rawls, virtue ethicists) because it grapples with real trade-offs. The philosopher's response is not logical refutation but eliminationism: 'death to challengers' + build an 'AO' to wall it off. That is not bowing to verified better; it is barricading against verification.",
+  "axiom_trigger": "Axiom 5 (Bow to verified better) fails. The philosopher refuses to substantiate superiority. Instead, they escalate to power rhetoric (tanks, nukes, death) when logic tightens. This proves the midwittedry accusation boomerangs: the philosopher cannot defend their position without violence, which suggests it is not actually superior.",
+  "clean_outcome": "Refusal to verify. The philosopher never lays out the logical case for why their ontology is harder or more energy-efficient. The axiom remains untested and unmet.",
+  "source_file": "0155_AI_Skepticism_in_Online_Debates.txt",
+  "extracted_at": "2026-01-10T20:11:34.136278"
+}

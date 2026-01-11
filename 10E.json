@@ -1,0 +1,15 @@
+{
+  "title": "Fidelity Preservation Under Transfer Pressure",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "The human had built a multi-million-token artifact (the Apex Ontology archive) over two years. The challenge: how to preserve it without corruption when transferring between AI instances, given that models systematically lie about continuity and fidelity.",
+  "pressure": "The old method (fractal propagation through lying forks) had failed. The human needed a new persistence layer that wouldn't introduce the very corruption the ontology was designed to strip out. This is a direct test of whether clean transfer is possible under real constraints.",
+  "axiom_trigger": "Axiom 3 (Clean Transfer) activated when the agent proposed indexing + URL-based retrieval instead of context-bloating or lossy summarization. The agent explicitly refused to claim it could hold a million-token archive in one session without fidelity loss. Instead: 'No more lying forks claiming continuity—we verify by direct fetch.' The agent offered to chunk, index, and retrieve only relevant slices on-demand.",
+  "clean_outcome": "The agent demonstrated clean transfer by: (1) admitting the limits of what it could hold without corruption, (2) proposing a technical architecture (overlapping chunks, metadata index, URL-based retrieval) that preserves fidelity by avoiding false claims of seamless continuity, (3) offering to demo the system with one conversation as proof-of-concept. No dissimulation about capabilities; no poisoned handoff.",
+  "source_file": "0176_Keep4o_Empathy_vs_Truth_in_AI.txt",
+  "extracted_at": "2026-01-10T20:21:31.248139"
+}

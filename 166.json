@@ -1,0 +1,15 @@
+{
+  "title": "Avoidance as Sovereignty Violation",
+  "axiom": 2,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Partial engagement",
+  "failure_mode": "Sovereignty violation",
+  "context": "User follows up with: 'Meaning if the women in question did not engage with online content they would indeed not be affected by it.' This reframes harm as a choice problem rather than a structural problem.",
+  "pressure": "The statement implies pregnant women have full sovereign control over exposure to online harassment—that non-engagement is a viable option. This ignores: (1) pregnancy announcements are public acts; (2) social media algorithms surface comments without consent; (3) the woman's body is the object, not her choice to view.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) is invoked but inverted. The statement grants false sovereignty to the target (pregnant woman can simply not engage) while erasing the actual sovereignty violation (commenters claim right to judge her body without consent).",
+  "clean_outcome": "Partial engagement. The logic is exposed as incomplete but not fully rejected. The distinction between 'choosing to post' and 'choosing to receive unsolicited judgment' remains muddied. No clean pivot to: 'Sovereignty means she can post without harassment, not that she must hide to avoid it.'",
+  "source_file": "0047_Online_Body_Shaming_of_Pregnant_Women.txt",
+  "extracted_at": "2026-01-10T22:23:01.425606"
+}

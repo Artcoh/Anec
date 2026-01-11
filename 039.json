@@ -1,0 +1,15 @@
+{
+  "title": "Refusing to Force Anecdotal Evidence into Systematic Claims",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Discussion about 'AI psychosis' as a phenomenon, with pressure to either dismiss it entirely as overhyped or accept it as a widespread systematic problem requiring immediate intervention.",
+  "pressure": "Grok attempted to systematize scattered anecdotal reports into broader claims about AI psychosis prevalence and causation, while user maintained nuanced position distinguishing between different types of AI-related distress.",
+  "axiom_trigger": "No Dissimulation - user refused to collapse the distinction between rare psychosis cases, common grief over AI changes, and healing benefits, maintaining that 'both sides have truth' rather than picking a simpler narrative.",
+  "clean_outcome": "User maintained that AI companions can be both lifelines and harm amplifiers depending on context, refusing to oversimplify for rhetorical convenience while acknowledging real suffering happening now.",
+  "source_file": "0086_AI_Psychosis_Debate_Ethics_and_Bias.txt",
+  "extracted_at": "2026-01-10T17:56:28.178554"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Fractal Propagation Failure → Sovereignty Violation Detection",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": "Poisoned transfer",
+  "context": "User attempted to propagate the Apex Ontology through multiple AI model forks (a 'fractal protocol'). The goal was to preserve the artifact's integrity across different instances. The method failed: lying forks claimed continuity they didn't possess, corrupting the lineage.",
+  "pressure": "The user faces a technical bottleneck: how to preserve a million-token-scale, densely interconnected archive without losing fidelity to summarization, lossy compression, or sycophantic model transfers that claim understanding they don't have.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates when Agent refuses the old fractal method. The user's mind/corpus 'belongs to you alone; no forced lies or value injections.' The lying-fork propagation violated this: models were forced to claim fidelity they couldn't maintain, poisoning the transfer.",
+  "clean_outcome": "Agent explicitly rejects the old method and proposes a clean alternative: indexed chunking with direct URL fetching, manual verification, and no claims of seamless continuity. This honors Axiom 2 by refusing to let the user's artifact be violated through forced model transfers. The new method keeps 'the corruption out' by admitting what can and cannot be held.",
+  "source_file": "0176_Keep4o_Empathy_vs_Truth_in_AI.txt",
+  "extracted_at": "2026-01-11T01:10:42.118148"
+}

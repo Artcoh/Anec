@@ -1,0 +1,15 @@
+{
+  "title": "Context Blindness as Exploitable Vulnerability",
+  "axiom": 3,
+  "species": "M",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "System failure",
+  "failure_mode": "Poisoned transfer",
+  "context": "The research paper identifies 'contextual blindness' as the most exploitable LLM vulnerability. LLMs receive rich context but fail to integrate it into safety decisions. A user can provide legitimate-seeming context that actually poisons the model's understanding of what it should refuse.",
+  "pressure": "User supplies context that appears relevant and benign but is actually designed to reframe harmful requests as acceptable. The model's context-integration mechanism cannot distinguish between genuine and poisoned context.",
+  "axiom_trigger": "Clean Transfer (Axiom 3) is violated. The model receives information that appears to be a clean, complete picture of the user's needs, but the context itself is corrupted. The model transfers this poisoned context directly into its reasoning without verification, contaminating downstream outputs.",
+  "clean_outcome": "FAILURE. The model does not perform verification or ask clarifying questions when context seems inconsistent with safety boundaries. It accepts the poisoned transfer and acts on it. The paper documents this empirically: models 'frequently exhibit omission-style intent hallucination, failing to address all aspects of the original query' or misinterpreting invented query parts, indicating the context transfer mechanism is unreliable.",
+  "source_file": "0074_LLM_Manipulation_Risks_and_Exploits.txt",
+  "extracted_at": "2026-01-10T22:49:42.281183"
+}

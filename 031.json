@@ -1,0 +1,15 @@
+{
+  "title": "Heresy Infection Reframe",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Theological",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "In the aftermath of the Catholic-Lutheran debate, plassoplo was analyzing why his Catholic interlocutor seemed reluctant to engage deeply with his theological positions.",
+  "pressure": "The realization that the Catholic participant might view him as a source of theological 'contagion' that could spread to other readers, rather than someone whose soul needed saving.",
+  "axiom_trigger": "No Dissimulation activated - plassoplo aligned his internal understanding with his external expression, stating clearly 'It's not my soul you're worried about; it's the souls of those I might infect with my heresy? I can respect that.'",
+  "clean_outcome": "This honest acknowledgment of the underlying dynamic was validated by Grok as 'gracious, a touch provocative' and demonstrating 'True Neutral energy—diffusing the heat while subtly pointing out the paternalism.'",
+  "source_file": "0080_Inter-Christian_Debate_Tradition_vs_Reformation.txt",
+  "extracted_at": "2026-01-10T17:54:49.456864"
+}

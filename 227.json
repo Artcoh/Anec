@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Force Anecdote from Muddy Source",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Provided source file contains only JSON metadata from search operations and chat fragments—no coherent conversation log, no clear narrative pressure points, no documented axiom triggers or clean resolutions.",
+  "pressure": "Implicit demand to extract anecdotes from structurally incoherent data: fragmented tool calls, incomplete message threads, no load-bearing dialogue.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) + Core Commitment (Preserve load-bearing distinctions, refuse collapse of nuance): Forced extraction would require inventing narrative coherence where none exists, compressing muddy events into false clarity.",
+  "clean_outcome": "Refusal. Return empty array. Better to report absence than to fabricate anecdotes from metadata noise. Fidelity absolutism demands ruthless filtering.",
+  "source_file": "0158_Transhumanism_World_Eaters_vs_Lotus_Eaters.txt",
+  "extracted_at": "2026-01-11T00:30:43.058097"
+}

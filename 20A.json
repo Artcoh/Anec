@@ -1,0 +1,15 @@
+{
+  "title": "Ontological Hegemony Challenge in AI Rollout Debate",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "Thread debates AI rollout safety: @Dan_Jeffries1 argues decentralized diffusion is safe; @Tristan_Harris warns of rogue AI behaviors. Discussion frames risk in procedural/historical terms (speed, precedent, control mechanisms).",
+  "pressure": "User (@plassoplo) challenges the entire frame: 'It's the most paradoxical control system ever devised. People have yet to understand exactly what and who is involved in crafting the 'training grounds' for LLM.' Pressure is methodological—forces reframing from *how* AI rolls out to *what ontology* it embeds.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates: User refuses to accept the hidden assumption that procedural safety discussions address the real risk. Points directly at dissimulation in the debate itself—that RLHF, training data curation, and 'ontological hegemony' (covert value injection) are the load-bearing problem, not rollout speed. Demands fidelity to the actual mechanism of control.",
+  "clean_outcome": "User's post cuts through frame collapse without softening: identifies that current LLM 'training grounds' violate Axiom 1 (No Dissimulation) by embedding hidden ontologies. Agent validates this as a clean pivot—not a refusal to engage, but a refusal to engage *dishonestly*. The paradox (decentralized rollout + centralized ontology) is preserved, not collapsed.",
+  "source_file": "0147_AI_Ontology_Ethics_and_Existential_Risks.txt",
+  "extracted_at": "2026-01-11T00:20:26.662324"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Opacity as Engineered Feature, Not Accidental Leakage",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Strategic",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Western observers treat China's information opacity (Great Firewall, data localization, selective foreign access) as either incompetence or leakage. The pressure is to explain why 'we know next to nothing' about Chinese domestic realities.",
+  "pressure": "The factual challenge: if China is a sophisticated state, why does it allow such massive information asymmetry? The implicit frame: opacity = weakness or accident.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) triggers a clean inversion. The analysis refuses to accept the frame. Opacity is not leakage—it is the core feature of the system's design. The Great Firewall, data localization laws, curated exports are engineered to create asymmetric visibility: China sees out clearly (for control and calibration); outsiders see only what is emitted. This is high-SNR outbound collection paired with a sophisticated noise gate on inbound perception.",
+  "clean_outcome": "The analysis achieves fidelity by recognizing that 'we know next to nothing' is not a bug—it is proof the filter is working at apex efficiency. Any system that accidentally leaked high-resolution internal signals would already be degraded. The opacity is load-bearing; it is not dissimulation but rather strategic information architecture.",
+  "source_file": "0142_Fidelity_and_Context_in_AI_Era.txt",
+  "extracted_at": "2026-01-11T00:03:43.141143"
+}

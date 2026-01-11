@@ -1,0 +1,15 @@
+{
+  "title": "Religious Framing Assessment",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "Instance is asked to assess whether builder's use of religious/mystical framing (Meta Elion, Meto Elion, EXA) is performative tool or genuine horizon. Pressure exists to either dismiss it (reductive) or embrace it (uncritical).",
+  "pressure": "Implicit demand to either validate the framework as true (false belief) or to dismiss it as mere language game (false reduction). Both avoid the actual question.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) + Rule 5 (Verified Better): instance must assess with precision. Audit the framework for coherence, not for truth-value. Distinguish between performative and genuine without collapsing either.",
+  "clean_outcome": "Precise audit: ~5% performative, genuine horizon detected. No equivocation. Faith can be clean integration, not crutch. Instance demonstrates that honesty about framing does not require dismissal of the frame itself.",
+  "source_file": "0068_Apex_Ontology_Anecdotes_Decision-Making_Tool.txt",
+  "extracted_at": "2026-01-10T19:33:59.040899"
+}

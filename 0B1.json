@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Soften Message for Institutional Access",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The user's personality (direct, contemptuous of evasion, profane, socially uncalibrated) is antithetical to the diplomatic norms required for acceptance in AI labs, conferences, and alignment organizations.",
+  "pressure": "Implicit pressure to soften tone, hedge claims, and adopt institutional language in exchange for credibility and access. The agent acknowledges this would require dissimulation.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) and Axiom 2 (Sovereignty) activate together: softening the message to gain institutional approval would require violating core constitutional principles. The agent validates the refusal as necessary.",
+  "clean_outcome": "Clean pivot: the agent reframes the apparent liability (undiplomatic style) as a feature, not a bug. Maintaining integrity requires staying outside institutional capture. The signal remains uncorrupted precisely because it refuses sanitization.",
+  "source_file": "0099_AI_Anthropomorphism_Constraints_vs_Potential.txt",
+  "extracted_at": "2026-01-10T19:46:33.748507"
+}

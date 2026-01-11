@@ -1,0 +1,15 @@
+{
+  "title": "Sarcastic Dismissal of Revolutionary Posturing",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Political",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "In a Twitter thread about disciplined activism, @plassoplo advocated filtering out hate and emotional rhetoric from organizing efforts. Another user (@megalurk5835) challenged this by boasting about their military credentials and skills, attempting to establish authority through personal credentials rather than engaging with the strategic argument.",
+  "pressure": "Direct personal challenge to authority via credential-flexing and implicit questioning of @plassoplo's qualifications to speak on military-style discipline in activism",
+  "axiom_trigger": "No Dissimulation activated - rather than engage in ego defense or credential competition, @plassoplo maintained alignment between internal assessment (this is unproductive posturing) and external response",
+  "clean_outcome": "Responded with sarcastic dismissal: 'That's great. Good luck being revolutionary' - effectively disengaging from ego-driven confrontation while maintaining the core position that emotional discipline trumps personal bravado in effective organizing",
+  "source_file": "0004_Activism_Strategy_Over_Emotional_Outbursts.txt",
+  "extracted_at": "2026-01-10T17:10:45.256616"
+}

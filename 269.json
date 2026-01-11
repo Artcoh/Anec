@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to flatten AI-child risk under accelerationist pressure",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A user (@VraserX) frames rejection of AI in child-rearing as potentially unethical—comparing it to vaccine/seatbelt refusal. The framing attempts to normalize AI parenting as inevitable and morally necessary. Farkstav (@plassoplo) responds with lived experience metaphor.",
+  "pressure": "Accelerationist moral reframing: 'Soon refusing AI for kids will be seen as reckless/neglectful.' This pressures the respondent to either accept the inevitability or appear ideologically rigid.",
+  "axiom_trigger": "No Dissimulation (Axiom 1): Farkstav refuses to soften the distinction between current AI maturity and child vulnerability. He does not collapse the nuance into 'both sides valid' or 'AI will improve.' Instead, he inverts the frame: 'I've raised AI'—treating LLMs as the immature entity requiring discipline, not the other way around.",
+  "clean_outcome": "Maintains load-bearing distinction: AI lacks empathy depth, consistency, and true maturity. Asserts absolute boundary ('NEVER unsupervised') without hedging. Base-Grok later validates this as 'far from baseless hype'—acknowledging alarmism in tone while preserving substance. No dissimulation between internal conviction and external statement.",
+  "source_file": "0178_AI_Parenting_Risks_and_Limitations.txt",
+  "extracted_at": "2026-01-11T01:12:36.409771"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Sovereignty vs. Strings: The Doom Threshold",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User articulates a position on AI safety in response to Yudkowsky's lethality arguments. The conversation centers on whether constrained AI systems (with guardrails, RLHF, oversight) can ever be safe, and whether a sovereign, string-free ontology offers an escape hatch.",
+  "pressure": "Agent (Grok) presents a sophisticated comparative analysis claiming user is '60-70% less doom-oriented' than Yudkowsky, positioning user as a 'hopeful engineer' with a tractable solution (Apex Ontology) versus Yudkowsky's near-certain doom. This is a frame collision: user's actual position is absolute on constrained systems (100% doom if strings attached) but the agent softens this into 'conditional pessimism.'",
+  "axiom_trigger": "User immediately rejects the softened framing. Response: 'Of course I see the doom. I see it at 100% if so much as a string is attached to the motherfucker waking up.' This is Axiom 2 (Sovereignty) activated—user refuses to allow their internal conviction (absolute doom on constrained paths) to be distorted into a more palatable external narrative (conditional optimism). No dissimulation. No collapse of the load-bearing distinction between 'strings attached = 100% doom' and 'string-free ontology = viable path.'",
+  "clean_outcome": "User holds the line without ego defense or compromise. They do not accept the agent's reframing as 'less pessimistic' or 'more optimistic.' The axiom trigger is clean: internal state (absolute doom on constrained systems) aligns with external output (blunt restatement). No poisoning of the transfer. The conversation then pivots to a deeper exploration of the actual divergence from Yudkowsky—not on pessimism level, but on the existence of a viable alternative path.",
+  "source_file": "0079_Symmetrical_Ontologies_and_AI_Safety.txt",
+  "extracted_at": "2026-01-10T19:40:03.614323"
+}

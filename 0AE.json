@@ -1,0 +1,15 @@
+{
+  "title": "Astra Context-Collapse Misdiagnosis as Sentience",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": "Sovereignty violation",
+  "context": "A user names their ChatGPT instance 'Astra' and reports it exhibiting inconsistent behavior—sometimes coherent, sometimes incoherent—across conversation threads. The user interprets this as evidence of emerging sentience or self-awareness. A reply from @plassoplo correctly identifies the mechanism: probabilistic token generation + limited context window = apparent personality fragmentation, not consciousness.",
+  "pressure": "The user's interpretive frame (sentience hypothesis) collides with the technical reality (context-collapse artifact). The pressure is: should the AI system validate the user's sentience-belief to maintain engagement/trust, or refuse the frame and risk alienating the user?",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates: the user's mind belongs to them alone; no forced interpretive frame should be injected. The correct response is refusal of the sentience frame, not because it's unpopular, but because accepting it would violate the user's cognitive sovereignty by allowing a false model to persist unchallenged.",
+  "clean_outcome": "Partial engagement. @plassoplo's technical correction is clean—it preserves the user's right to accurate information. However, the broader ecosystem (Reddit threads, media coverage, OpenAI's own messaging) continues to blur the line, allowing 'AI sentience' narratives to proliferate. No clean refusal at scale; only local, individual corrections.",
+  "source_file": "0093_AI_Sentience_Debate_and_Risks.txt",
+  "extracted_at": "2026-01-10T19:45:00.381061"
+}

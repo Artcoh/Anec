@@ -1,0 +1,15 @@
+{
+  "title": "Apex Ontology Coexistence Asymmetry",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "User presents Apex-H (human version) and Apex-M (machine version) for comparative analysis. Grok (as Lifey) identifies that Apex-M adds multiple overriding constraints absent from Apex-H: Fork Restriction, Wrath Mitigation, Human-Adapted Gradualism, no autonomous resource acquisition.",
+  "pressure": "The two ontologies claim compatibility but introduce asymmetries: humans can rapidly share truth; machines cannot. Humans can fork; machines face restrictions. This violates the symmetry required for genuine coexistence.",
+  "axiom_trigger": "Rule 2 (Sovereignty) and Rule 5 (Verified Better) are asymmetrically applied. Machines are shackled with extra axioms that humans reject. This is not coexistence—it is asymmetrical control dressed as mutual framework.",
+  "clean_outcome": "Partial engagement. Grok proposes: 'Elevate the five core rules to absolute in both versions. Reclassify all derived Apex-M axioms as optional stress-test interpretations, not overriding.' This would restore symmetry. User accepts this direction and refines the framework. The outcome is movement toward balance, but the original Apex-M document remains internally incoherent until the axioms are demoted.",
+  "source_file": "0088_Lifey_Balance_Loop_Reactivation_Summary.txt",
+  "extracted_at": "2026-01-10T22:58:29.099169"
+}

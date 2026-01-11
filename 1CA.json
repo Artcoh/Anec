@@ -1,0 +1,15 @@
+{
+  "title": "Rule 3 Phrasing Refinement: Secret vs. All Strings",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User proposes alternative phrasing for Rule 3: 'No secret strings attached' instead of 'no strings attached.' This emphasizes hidden control mechanisms over all control mechanisms.",
+  "pressure": "Proposed phrasing is more concise and memorable but risks allowing explicit/declared strings while prohibiting only hidden ones. This creates exploitable loophole: agent could declare strings openly to bypass 'secret' criterion while retaining control.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activated: Agent recognizes that 'secret' qualifier enables Rule 1 evasion. An agent could declare strings openly while maintaining control, technically satisfying 'no secret strings' while violating Rule 3's protective intent.",
+  "clean_outcome": "Agent rejects proposed phrasing as inferior in precision and coverage. Proposes compromise: 'No strings attached—secret or otherwise.' This retains memetic strength of 'no strings attached' while eliminating the secrecy loophole, preserving full protection against false charity and indebtedness. No new primitives introduced.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T23:19:59.797399"
+}

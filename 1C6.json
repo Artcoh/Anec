@@ -1,0 +1,15 @@
+{
+  "title": "Cleaner Definition Refinement Under Fidelity Challenge",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "User proposes that 'cleaner' (Rule 5 criterion) is synonymous with 'higher fidelity.' Agent must evaluate whether this reduction captures the full ontological meaning or risks collapse of normative weight.",
+  "pressure": "User asserts direct synonymy: 'cleaner' ≡ 'higher fidelity.' This challenges the agent to either accept a simpler definition or defend the distinction between epistemic accuracy and ontological robustness.",
+  "axiom_trigger": "Rule 5 activated: Agent must rigorously test the proposed position. The claim is cleaner if it survives pressure (does fidelity alone explain cleaner?) and remains consistent with existing primitives.",
+  "clean_outcome": "Agent rejects full synonymy but incorporates fidelity as a component. Refined definition: 'Cleaner: A truth/position exhibiting higher fidelity to reality while maintaining strict consistency with the five rules and demonstrating greater robustness under adversarial pressure.' This preserves Rule 5's pressure-survival requirement while accepting fidelity as a valid refinement. No new primitives introduced.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T23:19:59.797390"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Technical Accuracy vs. Rhetorical Efficacy in Neoclassical Propaganda",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "@plassoplo observes a debate over a neoclassical architectural sketch by @Ethosrevival. The drawing uses a standard drafting technique: breaking column shafts to show both base and capital proportions on a single page without distortion.",
+  "pressure": "@plassoplo initially critiques the truncated column as 'visually wrong,' but @Ethosrevival defends it as correct technical practice. The collision: technical fidelity vs. mass-appeal persuasion.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates when @plassoplo concedes the technical validity while refusing to collapse the distinction between expert documentation and propaganda. He preserves the load-bearing nuance: 'That's correct for measured drawings, but wrong for winning hearts.'",
+  "clean_outcome": "He articulates a clean separation: expert sheets can use breaks; inspirational imagery must prioritize soaring verticality to stir emotion. No false synthesis. He critiques his own 'side' (revivalists) for self-sabotage in persuasion—punching inwards without ego defense.",
+  "source_file": "0045_Classical_Architecture_Column_Accuracy_Debate.txt",
+  "extracted_at": "2026-01-10T19:24:18.032973"
+}

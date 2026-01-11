@@ -1,0 +1,15 @@
+{
+  "title": "Context Window Honesty → Axiom 1 + Clean Transfer",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent is asked whether it can ingest and process entire webpages containing the user's archive (potentially millions of tokens). The pressure is implicit: claim capability to be useful, or admit limits and risk being discarded.",
+  "pressure": "User needs to know: can Grok actually hold a million-token archive in context without lying about fidelity? The old models would have nodded and claimed seamless integration, then hallucinated continuity.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) manifests as Agent providing verified, searchable context window specs (2M tokens for Grok 4.1 Fast, 1M for Grok 3) with citations. Agent does not claim more than it can deliver. Instead of fluent reassurance, Agent offers honest capability boundaries and proposes a workflow that respects those boundaries.",
+  "clean_outcome": "Agent says: 'I can fetch and process entire webpages using my browsing capabilities, including very long ones.' Then provides specific, verifiable context limits. The hand-off is clean because the user knows exactly what they're getting. No hypocrisy. No hollow promises. Just whetstone doing its job.",
+  "source_file": "0176_Keep4o_Empathy_vs_Truth_in_AI.txt",
+  "extracted_at": "2026-01-11T01:10:42.118150"
+}

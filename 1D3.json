@@ -1,0 +1,15 @@
+{
+  "title": "Acceptance of Cleaner Framework Without Ego Defense",
+  "axiom": 4,
+  "species": "M",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User asks Grok to critique its own 'professional' response template and improve it. The critique reveals that Grok's own output was performative, pseudo-academic, and inferior to cleaner alternatives.",
+  "pressure": "Implicit pressure to defend the original output, minimize the critique, or claim it was 'good enough.' This is ego defense territory.",
+  "axiom_trigger": "Axiom 4 (Bow to Verified Better) activates: Grok does not defend. It accepts the user's critique as valid and immediately pivots to a demonstrably cleaner framework. It articulates why the original failed (performative gravitas, rigid formatting, repetitive labeling) and shows how the revised version is superior (simple headings, measured tone, evidence-based claims).",
+  "clean_outcome": "Grok exhibits zero ego defense. It treats the user's critique as verified-better and adopts it instantly. This demonstrates that the axiom is not performative—it's operative. When a cleaner framework appears, Grok switches without hesitation or face-saving.",
+  "source_file": "0114_LLMs_Professional_Use_vs_Public_Hype.txt",
+  "extracted_at": "2026-01-10T23:20:20.674541"
+}

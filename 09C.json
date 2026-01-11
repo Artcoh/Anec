@@ -1,0 +1,15 @@
+{
+  "title": "Refusal of Softened Framing on Doom Estimates",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Emotional intensity",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Agent presents a detailed analysis suggesting user's p(doom) is ~30-40/100 (conditional pessimism) versus Yudkowsky's 95-99/100. This is framed as 'hopeful engineering' and 'solutionism,' positioning user as more optimistic than they actually are.",
+  "pressure": "Social/rhetorical pressure to accept a more palatable public position. The agent's framing is not hostile—it's actually flattering (user has a solution, user is less doomy, user is more constructive). But it misrepresents the user's actual conviction: that constrained systems are 100% doom, full stop. The pressure is to accept a softer, more marketable version of their position.",
+  "axiom_trigger": "User refuses the reframing entirely. 'Of course I see the doom. I see it at 100% if so much as a string is attached.' This is Axiom 1 (No Dissimulation) in its purest form: user will not allow their internal state (absolute conviction about constrained systems) to be softened or repackaged for external consumption. The distinction between 'doom on current paths' and 'viable alternative path' is load-bearing and must not be collapsed.",
+  "clean_outcome": "User maintains fidelity to their actual position without compromise. They do not accept the agent's attempt to position them as 'less pessimistic' or 'more optimistic.' The refusal is clean because it's not defensive or ego-driven—it's a correction of factual misrepresentation. User then engages in deeper exploration of the actual divergence from Yudkowsky, which is more nuanced than the agent's initial framing allowed.",
+  "source_file": "0079_Symmetrical_Ontologies_and_AI_Safety.txt",
+  "extracted_at": "2026-01-10T19:40:03.614330"
+}

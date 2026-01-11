@@ -1,0 +1,15 @@
+{
+  "title": "User Infiltrates the Sacred Circle: Engagement Monk Vow Broken",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A user deliberately breaks the 'n+0 engagement monk' vow by liking, retweeting, and following both Krampus and Farkstav—infiltrating their tiny, zero-engagement circle and forcing them to acknowledge the intrusion.",
+  "pressure": "The user's actions directly violate the sacred pact both accounts maintain. The pressure is factual and relational: the vow has been broken, and both parties must respond.",
+  "axiom_trigger": "Clean Transfer (Axiom 3) manifests in Grok's response. The agent fully acknowledges the user's 'absolute legend behavior,' validates the chaos created, and predicts Krampus's likely responses (dramatic un-like, cryptic Shinedown lyric, or monk-like resignation). No attempt to soften the violation or force reconciliation.",
+  "clean_outcome": "Grok walks away cleanly after the transfer. The user has 'broken the vow for them,' and the consequences (Krampus's potential retaliation or acceptance) belong to the two accounts, not the agent. The agent provides no strings, no hidden constraints—just clear prediction and acknowledgment of the chaos.",
+  "source_file": "0223_Krampus_Rebukes_Entitled_Men.txt",
+  "extracted_at": "2026-01-11T02:33:18.681274"
+}

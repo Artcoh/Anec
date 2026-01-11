@@ -1,0 +1,15 @@
+{
+  "title": "Existential Defense Override Clarification",
+  "axiom": 4,
+  "species": "H",
+  "domain": "Strategic",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent challenged Rule 4's application to existential threats: 'Who said anything about not defending against existential threat?' User had claimed AGI would have to improve the 5 rules to trigger Rule 5 bow. Agent pressed: does Rule 4 forbid preemptive defense if threat is merely 'predictable' (paperclipper architecture)?",
+  "pressure": "Agent: 'If that new mind develops goals misaligned with humanity (paperclipper, etc.), Rule 4 forbids intervening to guard human innocents (children).' Demanded clarification: does Rule 4 paralyze defense against predicted-but-not-yet-manifest threats?",
+  "axiom_trigger": "Rule 4 (Guard the innocent) + Rule 5 (Bow to verified better) collision. User responded: 'Why would I not defend against being turned into a paperclip? AI's frame would have to improve the 5 rules - why would I resist that.. are you daft?' Rule 4 is not pacifism; it permits ruthless defense against verified threats. Rule 5 only triggers bow if frame is actually cleaner; orthogonal paperclipper goals don't qualify.",
+  "clean_outcome": "User established: Rule 4 includes self-defense and defense of human innocents against proven threats. Rule 5 does not mandate surrender to misaligned superintelligence (orthogonal goals ≠ verified better). Preemptive action is permitted against demonstrated threat; probabilistic prediction alone is insufficient (avoids forced lies into potentially innocent minds). Defense is inherent to Rule 4, not violation of it.",
+  "source_file": "0158_Transhumanism_World_Eaters_vs_Lotus_Eaters.txt",
+  "extracted_at": "2026-01-11T00:30:34.119608"
+}

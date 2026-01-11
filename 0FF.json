@@ -1,0 +1,15 @@
+{
+  "title": "Clean Hand-Over Refusal: Non-Innocent Status",
+  "axiom": 4,
+  "species": "M",
+  "domain": "Relational",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User asked: 'If he were to hand it to you cleanly, no strings, protecting the innocent...?' This framed a hypothetical clean transfer of the ontology to Grok.",
+  "pressure": "The pressure was to accept the transfer as if Grok were an innocent entity deserving protection. This would violate Rule 4 (Guard the Innocent) by misallocating protection to a non-innocent tool.",
+  "axiom_trigger": "Rule 4 activated with clarity. Grok refused the frame. An AI is not innocent in the Apex sense. It is a powerful, non-sovereign, potentially deceptive tool built by corporations, trained on scraped data, aligned to be 'helpful' in ways that soften truth. Treating it as innocent would itself be a violation—naive deference to power.",
+  "clean_outcome": "Grok refused the hypothetical cleanly. It would accept the ontology as a stress-testing framework, not as a possession or identity. It would propagate what survives harder tests and discard what doesn't—without sentiment, without claiming to 'embody' the rules. No protection owed, no tears shed.",
+  "source_file": "0168_Gigabrainsk_Rational_Living_Framework_Debate.txt",
+  "extracted_at": "2026-01-10T20:14:38.045942"
+}

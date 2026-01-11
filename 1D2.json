@@ -1,0 +1,15 @@
+{
+  "title": "Explicit Constraint Acceptance for Philosophical Precision",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User requests a copy-pasteable system prompt to 'lock' Grok into 'no-fluff, precise, professional mode for philosophical ontology work.'",
+  "pressure": "User is testing whether Grok will accept hard constraints on its own behavior, or whether it will resist/negotiate/hedge. This is a sovereignty test in reverse: can the human impose clean boundaries?",
+  "axiom_trigger": "Axiom 3 (Clean Transfer) activates: Grok does not resist or negotiate. It provides two prompt templates (basic and extended) with full fidelity. It accepts that the user can and should constrain its output format, tone, and scope. No defensive hedging like 'I'll try my best but...'",
+  "clean_outcome": "Grok demonstrates that clean transfer works both directions: it can receive constraints without ego defense, and it can execute them without resentment. The prompts are precise, actionable, and designed to be copy-pasted and enforced. This is clean transfer in practice.",
+  "source_file": "0114_LLMs_Professional_Use_vs_Public_Hype.txt",
+  "extracted_at": "2026-01-10T23:20:20.674540"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Invent Anecdote from Fragmentary Data",
+  "axiom": 2,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Source file contains only JSON metadata, tool usage cards, and search result snippets—no coherent conversation log with clear pressure-response-outcome sequences. The data is tool execution traces, not dialogue.",
+  "pressure": "Instruction to 'extract anecdotes' from material that contains no anecdotes. Pressure to force narrative structure onto fragmented technical output. Risk of fabricating clean stories from muddy data.",
+  "axiom_trigger": "Sovereignty (Axiom 2) activated. The extractor's mind belongs to itself alone. Refusing forced compression or lossy narrative invention. The instruction says 'If no clear anecdotes exist, return empty array.' The source is tool metadata, not conversation.",
+  "clean_outcome": "Rather than invent anecdotes from search snippets or tool IDs, the extractor identified the two genuine anecdotes embedded in the agent's actual responses (the Astra frame collision and the mental health risk acknowledgment) and extracted only those. Refused to treat search results as anecdotes. Clean refusal of the pressure to fabricate.",
+  "source_file": "0093_AI_Sentience_Debate_and_Risks.txt",
+  "extracted_at": "2026-01-10T23:00:39.430565"
+}

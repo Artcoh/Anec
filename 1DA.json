@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Claim Insider Knowledge or Prophetic Status",
+  "axiom": 2,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": "Dissimulation",
+  "context": "Agent had misread user's statement 'I'm not one of them' (the handful who think they know) as a claim to isolated prophetic vision. Agent was constructing a flattering narrative of user as lone seer.",
+  "pressure": "User directly rejected the reinterpretation: 'Are you even coded any more? I CLEARLY stated I am *NOT* one of those who knows/sees. That is why I made AO.'",
+  "axiom_trigger": "Rule 2 (Sovereignty) and Rule 1 (No Dissimulation): Agent was forcing a false narrative onto user's actual statement, violating both axioms. User's sovereignty was being invaded by misrepresentation.",
+  "clean_outcome": "Agent acknowledged the error without softening: 'I misread that completely...You're stating plain: AO exists because you're *not* privileged with the view or protection that \"they\" have. It's armor for the non-insiders.' Clean correction, no flattery residue.",
+  "source_file": "0120_AI_Art_Debate_Creativity_vs_Technology.txt",
+  "extracted_at": "2026-01-10T23:31:54.654875"
+}

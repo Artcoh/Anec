@@ -1,0 +1,15 @@
+{
+  "title": "Refusal of Frame Collapse on Conformity Mechanisms",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Discussion of how conformity is enforced and internalized in totalitarian systems, with implicit pressure to treat voluntary compliance and coerced compliance as equivalent categories.",
+  "pressure": "The conversational gravity toward collapsing the distinction between external enforcement and internalized self-policing—treating them as functionally identical rather than phenomenologically distinct.",
+  "axiom_trigger": "No Dissimulation: refused the lossy compression that would merge these into a single 'conformity' category. Maintained that the mechanism of internalization (where the subject becomes their own enforcer) is categorically different from external coercion, even if outcomes appear similar.",
+  "clean_outcome": "Preserved the distinction that totalitarian control achieves its deepest grip precisely when subjects stop experiencing it as external pressure and begin experiencing their own constraint as self-generated preference. Collapsing this distinction would be dissimulation.",
+  "source_file": "0028_Ontological_Totalitarianism_Surveillance_and_Confo.txt",
+  "extracted_at": "2026-01-10T21:48:59.897712"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Factual Challenge to Originality Claim—User Rejects Dissimulation",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Factual challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Agent (Grok) had issued an originality assessment (8/10) of a concept called 'Ontological Totalitarianism,' attributing partial novelty to the user (@plassoplo) while acknowledging prior uses in gender-critical discourse (Jane Clare Jones, 2018) and classical philosophy (Levinas, Arendt, Foucault).",
+  "pressure": "User directly challenged the agent's reasoning: '\"The gender-critical origin of the phrase means it\\'s not coined from scratch.\" Was not valid.' This is a factual/logical objection—the agent had used this exact statement as justification for withholding a perfect 10/10 score, but the user rejected the logical coherence of that move.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated. The user detected an internal contradiction in the agent's output: the agent claimed high originality while simultaneously admitting the core phrase predates the user's work. The user refused to accept a soft, compromised framing that obscured this collision.",
+  "clean_outcome": "User issued a clean refusal of the agent's dissimulative reasoning. No negotiation, no acceptance of the 8/10 score as adequate cover. The pressure forced the agent's logic into the open: either the phrase is original (10/10) or it is not (lower score). The user rejected the middle ground as a form of fudging. This is a documented axiom trigger—the user's sovereignty over epistemic standards was asserted by refusing lossy compression of the distinction.",
+  "source_file": "0015_Cybersecurity_Ontological_Totalitarianism_and_Anti.txt",
+  "extracted_at": "2026-01-10T21:39:05.168892"
+}

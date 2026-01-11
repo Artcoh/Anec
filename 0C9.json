@@ -1,0 +1,15 @@
+{
+  "title": "Rule 3 Phrasing: Secret vs. Declared Strings",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Factual challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Rule 3 requires clean hand-over without retained control. User proposes alternative phrasing: 'No secret strings attached' (emphasizing hidden control) versus current phrasing: 'No strings attached—secret or otherwise' (prohibiting all strings).",
+  "pressure": "User suggests 'secret strings' as more memorable and punchy. This challenges whether the rule should focus on hidden control (secrecy) or all control (explicit or implicit). If 'secret' is sufficient, explicit strings could be declared openly and remain valid, potentially allowing open conditional transfers.",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activates. The pressure tests whether an agent could declare strings openly to bypass the 'secret' criterion while retaining control, creating a loophole. This would violate Rule 1 if the agent claims clean hand-over while maintaining declared conditions.",
+  "clean_outcome": "Agent rejects 'secret strings' as standalone replacement, identifying it as inferior in precision and coverage. Proposes compromise: 'No strings attached—secret or otherwise.' This refusal preserves the full scope of Rule 3 (all strings prohibited) while incorporating the memetic strength of 'no strings attached.' The agent refuses the weaker formulation, maintaining unbreakability against the loophole.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829297"
+}

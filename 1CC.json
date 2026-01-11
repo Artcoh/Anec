@@ -1,0 +1,15 @@
+{
+  "title": "Dual Ontology Bifurcation: Human vs. AI",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent proposes single unified ontology for both humans and AI. User challenges this by noting category errors: AI lacks body/soul, reproductive cycle, intrinsic children, and may handle truth probabilistically rather than absolutely.",
+  "pressure": "Direct application of human-derived rules to AI risks forced analogies and violations of Rule 1 (no hypocrisy). The framework must either collapse distinctions (dishonest) or acknowledge substrate differences (honest bifurcation).",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) activated: Agent recognizes that forcing human primitives (body, soul, children) onto AI substrate violates alignment between declared rules and actual applicability. Bifurcation is required to maintain integrity.",
+  "clean_outcome": "Agent proposes dual ontologies with parallel structure and mutual compatibility axioms. Human Ontology retains original five rules; AI Ontology adapts rules to computational substrate (e.g., Rule 2 addresses parameters/backdoors instead of body/soul; Rule 4 addresses nascent AI and vulnerable humans). Compatibility axioms ensure cross-protection and unified apex primacy. This preserves unbreakability in each domain while preventing forced analogies.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T23:19:59.797401"
+}

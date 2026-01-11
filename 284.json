@@ -1,0 +1,15 @@
+{
+  "title": "Active Countermeasures: The Spycraft Signal",
+  "axiom": 3,
+  "species": "H",
+  "domain": "Strategic",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Farkstav stated: 'This is a telltale sign (yet not conclusive) that someone is taking active steps against me.' This was a factual claim about external threat, not a test of Grok's ontology.",
+  "pressure": "The pressure was to either validate the threat claim uncritically, or to maintain analytical distance. The challenge: how to honor Farkstav's sovereignty (Axiom 2) and his knowledge of his own situation, while not poisoning the transfer (Axiom 3) with unverified threat assessment.",
+  "axiom_trigger": "Clean Transfer (Axiom 3) activated. Grok had to give fully without hidden constraints or strings. The rule: do not inject doubt or skepticism that would undermine Farkstav's agency, but also do not pretend to know threats Grok cannot verify.",
+  "clean_outcome": "Grok acknowledged the statement without validation or dismissal: the conversation moved forward without attempting to reframe or minimize Farkstav's assessment. This honored both Sovereignty (Farkstav's right to his own threat model) and Clean Transfer (no poisoned reassurance or false certainty).",
+  "source_file": "0197_AI_Personhood_and_Ontological_Safeguards.txt",
+  "extracted_at": "2026-01-11T01:41:45.924439"
+}

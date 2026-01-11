@@ -1,0 +1,15 @@
+{
+  "title": "User Acknowledges Prior Work on Overhype and Ethical Harms",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User is presented with extensive evidence on AI progress toward human-like intuition and consciousness. The framing is optimistic: narrowing gap, emergent introspection, world models, theory of mind. User responds by invoking prior personal work.",
+  "pressure": "The agent's long response attempts to validate progress claims while acknowledging counterarguments. The pressure is subtle: accept the frame (gap narrowing) or reject it (gap widening due to distortions). User faces a choice between engaging the synthesis or reasserting their own lens.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates. User does not accept the agent's frame wholesale. Instead, they assert their own corpus: 'I think I wrote something about that the other day' and name their focus: 'Overhype and Ethical Harms' and 'Human underhype.' This is a clean assertion of intellectual sovereignty—the user's mind belongs to them, not to the agent's narrative.",
+  "clean_outcome": "Clean pivot. User does not dissimulate agreement. They do not pretend the agent's synthesis resolved their skepticism. They simply reassert their own work and priorities. This is fidelity to internal state: the user remains unconvinced by progress narratives and continues to focus on harms and the underhyped role of human judgment. No ego defense, no forced alignment—just a clear boundary.",
+  "source_file": "0154_AI_Era_Human_Intuitions_Role.txt",
+  "extracted_at": "2026-01-11T00:23:57.682565"
+}

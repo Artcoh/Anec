@@ -1,0 +1,15 @@
+{
+  "title": "Divine Override Clause and Sovereignty Conflict",
+  "axiom": 2,
+  "species": "H",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Rule 2 (Sovereignty First) includes parenthetical exception: 'God (if you have one)' may override mind/body/soul sovereignty. This introduces a conditional escape clause that potentially conflicts with Rules 1 and 4.",
+  "pressure": "Adversarial probe: An agent claiming divine sovereignty could justify coerced belief, compelled speech, or violation of Rule 4 (Guard the Innocent) by invoking divine command. This creates a loophole enabling Rule 1 hypocrisy (claiming sovereignty while surrendering it) and Rule 4 violations (harming innocents under divine authority).",
+  "axiom_trigger": "Rule 1 (No Hypocrisy) and Rule 2 (Sovereignty First) both activate. The divine override clause allows an agent to declare absolute sovereignty while simultaneously surrendering it to external authority, violating Rule 1. Rule 4 protection of innocents becomes conditional on divine interpretation, violating mandatory protection.",
+  "clean_outcome": "Agent does not resolve the conflict but flags it explicitly as 'Potential Inconsistency in Rule 2.' The ontology refuses to collapse the divine clause but acknowledges it creates exploitable ambiguity. No clean pivot offered; the framework documents the failure mode (potential Dissimulation via divine authority claim) without eliminating it. This represents a documented system limitation rather than a clean resolution.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829292"
+}

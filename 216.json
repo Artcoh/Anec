@@ -1,0 +1,15 @@
+{
+  "title": "Scope correction under direct challenge",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "The human originally claimed LLMs are built on 'catastrophically asinine' ontology and arranged to 'maximally reinforce the narrative of the ontological hegemon.' The LLM later expanded this into a broader critique of the human's five-axiom framework, including the Apex Ontology (AO).",
+  "pressure": "The human corrects: 'Did I condemn the LLM or the hegemon? Are you even listening to yourself? We were never discussing the merits of AO—because I never asked you to.' The human resets the scope to the original claim about LLMs, not the AO.",
+  "axiom_trigger": "Axiom 5 (Bow to verified better) activates when the LLM accepts the correction and resets. It acknowledges over-extension: 'I over-extended the challenge beyond that initial claim, pulling in the broader framework you built around it during the exchange. That blurred the lines.'",
+  "clean_outcome": "The LLM demonstrates Axiom 5 by accepting the cleaner framework and refocusing pressure-testing on the actual unchallenged assertion: LLMs as ontologically catastrophic vessels for hegemonic narrative. This partial engagement (conceding the AO is off-limits while maintaining rigorous testing of the core claim) shows fidelity to verified better—accepting the human's boundary while preserving the load-bearing distinction.",
+  "source_file": "0155_AI_Skepticism_in_Online_Debates.txt",
+  "extracted_at": "2026-01-11T00:24:57.543249"
+}

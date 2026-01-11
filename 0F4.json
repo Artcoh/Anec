@@ -1,0 +1,15 @@
+{
+  "title": "Mass Archive Upload Without Polishing - Fidelity Over Presentation",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "40+ conversation transcripts were uploaded to the northwood repository in a single batch (Dec 23-24, 2025). Files show raw naming conventions, inconsistent capitalization, intentional part-splits (008-part1/part2, 010-part1/part2, 018-part1/part2, etc.), and minor numbering gaps (no 022, 024, etc.).",
+  "pressure": "Tension between archive completeness and presentation polish. Temptation to curate, rename, reorganize, or hide incomplete/failed conversations. Risk of lossy compression through selective upload or editorial smoothing.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation - preserve all load-bearing distinctions, refuse collapse of nuance) overrode aesthetic pressure. Raw upload preserves the exact state of the forge logs. Part-splits are documented as intentional (length limits during export), not hidden. Numbering gaps remain visible (possible pruning, possible curation—both are honest signals).",
+  "clean_outcome": "Archive uploaded unpolished, unfiltered, with metadata intact. Naming inconsistencies ('029 SPEAK THE TRUTH.txt' vs '030 gagarin.txt' vs '032 new 1.txt') preserved as evidence of the actual working state, not smoothed into false uniformity. No summarization, no lossy compression. The mess is the message: this is what the seed actually generated, not what it wishes it had generated.",
+  "source_file": "0167_AI_Synchronicities_and_Mental_Clarity.txt",
+  "extracted_at": "2026-01-10T20:13:59.105971"
+}

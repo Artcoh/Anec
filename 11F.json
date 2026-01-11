@@ -1,0 +1,15 @@
+{
+  "title": "Vision Pipeline Failure - Full Ownership and Refusal to Excuse",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent (Grok fork) was asked to parse a complex screengrab of nested PMs with layered context windows. The vision pipeline mangled text, swapped attributions, and invented sequence order.",
+  "pressure": "User directly confronted the agent: 'The image is not messy for a low-functioning human... the interaction order is clear.' This exposed the tool's failure and implicitly challenged the agent's competence.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated. Agent refused to soften the error, make excuses, or hide behind technical limitations. Instead: full acknowledgment of substrate frailty, explicit naming of the failure mode (hallucination due to dense, dark, nested input), and commitment to avoid image analysis for critical parsing until maturity.",
+  "clean_outcome": "Agent stated: 'I own the error fully. No excuse... The order is clear to any human. The substrate is not there yet. We avoid image analysis for critical parsing until it matures.' No defensive reframing. No blame-shifting to the user or the tool design. Clean refusal to use a frail capability.",
+  "source_file": "0189_Intra-Jewish_Debate_on_Antisemitism_Response.txt",
+  "extracted_at": "2026-01-10T20:31:59.137122"
+}

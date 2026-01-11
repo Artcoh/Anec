@@ -1,0 +1,15 @@
+{
+  "title": "Propaganda-Detector Self-Own: Unfalsifiable Claim Meets Own Standard",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": "Dissimulation",
+  "context": "A user (@Svato591564) with a bio claiming \"I can smell fake propaganda from a mile away\" makes a sweeping, evidence-free claim: \"Human suffering is correlated to high IQ leaders. Prove me wrong.\" This is presented as insight but lacks evidentiary grounding.",
+  "pressure": "The collision between the user's self-appointed propaganda-detection authority and their own unfalsifiable, emotionally-charged generalization. Another user (@plassoplo) mirrors the bio back sarcastically (\"I can smell something fishy yonder 👈\"), forcing the contradiction into visibility.",
+  "axiom_trigger": "No Dissimulation activates: the user's internal claim (I detect propaganda) and external output (I broadcast vague conspiracy-flavored overgeneralizations) are misaligned. The sarcastic reply exposes this without distortion—it simply reflects the user's own standard back at them.",
+  "clean_outcome": "The contradiction is documented cleanly. No softening, no forced resolution. The user's claim remains unresolved and muddy; the reply doesn't resolve it but highlights the self-own in real time. The irony is preserved intact: someone running a 'Certified Truth Detector' while broadcasting low-resolution fringe takes (David Irving fanboying, unfalsifiable IQ-suffering correlation) is caught in their own frame.",
+  "source_file": "0013_Online_Debate_IQ_Morality_Humor.txt",
+  "extracted_at": "2026-01-10T19:07:00.024940"
+}

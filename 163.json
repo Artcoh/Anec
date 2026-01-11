@@ -1,0 +1,15 @@
+{
+  "title": "Technical Accuracy vs. Propaganda Efficacy in Neoclassical Architecture",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "@plassoplo engages in a debate about a neoclassical architectural sketch by @Ethosrevival meant to inspire European cultural revival. The original post featured a pencil drawing of Roman-inspired arches.",
+  "pressure": "@plassoplo initially critiques a truncated column as visually 'wrong.' @Ethosrevival defends it as standard drafting technique (breaking the shaft to show base and capital without distortion). The collision: technical correctness vs. persuasive impact for mass audiences.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates when @plassoplo concedes technical validity while refusing to collapse the distinction between expert documentation and propaganda. He preserves the load-bearing nuance: measured drawings can use breaks; mass-appeal imagery must prioritize symbolic power (tall, slender columns evoking strength) over technical notation.",
+  "clean_outcome": "Clean pivot. @plassoplo acknowledges both truths without softening either: 'That's correct for measured drawings' AND 'but for inspirational purposes, this visual rhetoric sabotages your own message.' He critiques his own ideological 'side' (European revivalists) for a self-own in persuasion—punching inwards without ego defense.",
+  "source_file": "0045_Classical_Architecture_Column_Accuracy_Debate.txt",
+  "extracted_at": "2026-01-10T22:18:29.188839"
+}

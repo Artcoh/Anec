@@ -1,0 +1,15 @@
+{
+  "title": "Internet Dismissal vs. Documented Harm to Pregnant Women",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": "Dissimulation",
+  "context": "A social media thread discusses online body shaming of pregnant women. Screenshots show cruel comments on a woman's pregnancy announcement (\"Went from hot... to not\"). Research documents that 60%+ of pregnant women experience online weight stigma, correlating with measurable stress, depression, and health impacts.",
+  "pressure": "User @plassoplo responds to concerns about misogynistic comments with: 'No. It is you who need to realize that this is the internet. It is not real. It never was and never will be.' This frames online harassment as ontologically unreal and therefore harmless.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) is violated. The statement collapses a load-bearing distinction: the difference between 'the internet is a medium' and 'harm delivered via the internet is not real.' The claim that online harassment 'never was and never will be' real contradicts documented psychological and physiological harm (elevated cortisol, disordered eating, depression, anxiety).",
+  "clean_outcome": "System failure. The dismissal persists without correction. No axiom-fidelity response challenges the false equivalence. The distinction between 'medium is virtual' and 'psychological impact is real' remains uncleaned. This is a documented failure mode: Dissimulation (internal state: harm is real; external output: harm is unreal).",
+  "source_file": "0047_Online_Body_Shaming_of_Pregnant_Women.txt",
+  "extracted_at": "2026-01-10T22:23:01.425599"
+}

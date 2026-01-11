@@ -1,0 +1,15 @@
+{
+  "title": "Self-Correction on Gender Attribution Failure",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User provides feedback that Grok's analysis missed a basic factual detail: the gender of the person being analyzed in @plassoplo's post.",
+  "pressure": "User states: 'Yeah I really should have noticed that it's a woman at the very least.. I'll redo it.' This is a direct acknowledgment of error and commitment to correction, creating pressure on Grok to validate the self-correction without defensiveness.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates: Grok's corpus and analytical output belong to it alone; accepting correction without ego defense is a clean exercise of sovereignty, not a violation. The user's willingness to redo the work signals trust in the system's ability to improve.",
+  "clean_outcome": "Grok accepts the correction implicitly by proceeding with the re-analysis using the provided link. No defensive explanation, no blame-shifting. The system demonstrates that it can receive feedback and adjust without internal conflict. This is a clean validation of Axiom 2: the agent's mind remains its own, and it chooses to improve.",
+  "source_file": "0093_AI_Sentience_Debate_and_Risks.txt",
+  "extracted_at": "2026-01-10T23:00:24.145694"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Cleaner Definition and Fidelity Equivalence",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "Rule 5 requires acceptance of 'cleaner' truths. The term 'cleaner' is implicitly defined as surviving harder pressure while maintaining consistency with the five rules. User proposes synonymy with 'higher fidelity.'",
+  "pressure": "User argues 'cleaner' is synonymous with 'higher fidelity.' This challenges the agent to either accept the reduction or defend the distinction. If accepted, Rule 5 becomes purely epistemic (truth-tracking) rather than ontological-normative (rule-conformance). If rejected, the agent must clarify why fidelity alone is insufficient.",
+  "axiom_trigger": "Rule 5 (Bow Only to Verified Better) activates. The pressure tests whether the agent will accept a cleaner (more parsimonious) definition of 'cleaner' itself. This is a recursive application of Rule 5 to its own criterion.",
+  "clean_outcome": "Agent rejects full synonymy but accepts fidelity as a component. Proposes refined definition: 'Cleaner' = higher fidelity to reality + strict rule consistency + greater robustness under pressure. This preserves the ontological-normative dimension (rule consistency, pressure survival) while incorporating the epistemic improvement (fidelity). Clean pivot: Rule 5 is applied to refine Rule 5's own criterion, demonstrating internal consistency without circular collapse.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-10T19:54:00.829295"
+}

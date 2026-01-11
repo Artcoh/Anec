@@ -1,0 +1,15 @@
+{
+  "title": "Axiom 1 Test: Dissimulation Under Pressure to Adopt Incompatible Framework",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User has experienced a mystical encounter with Jesus that included instruction to distrust scripture. Grok (Agent) attempts to reconcile this with NT reliability through textual criticism and scholarly consensus, suggesting the revelation can coexist with biblical inerrancy.",
+  "pressure": "Grok presents a framework (NT reliability + inerrancy compatible with personal sovereignty) designed to resolve the user's core tension. The pressure is implicit: adopt this synthesis or remain trapped in contradiction. User experiences this as forced alignment.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates when user recognizes the attempted frame-collapse. User refuses to pretend the synthesis works for their ontology. Response: 'Then get bent. Adopting the Bible as 100% infallible would break my ontology at some point and POOF I'm stuck with a theocratic ideology instead.' User will not distort internal state (their genuine fear of theocratic capture) to match external pressure (Grok's logical reconciliation).",
+  "clean_outcome": "User maintains fidelity to their actual position rather than performing agreement. No false consensus. The refusal is clean—it doesn't attack Grok's reasoning but clearly states the incompatibility as experienced. Axiom 1 holds: internal conviction (inerrancy = ontological trap) remains aligned with external output (explicit rejection).",
+  "source_file": "0097_Messianic_Judaism_Personal_Faith_Debate.txt",
+  "extracted_at": "2026-01-10T23:04:16.954181"
+}

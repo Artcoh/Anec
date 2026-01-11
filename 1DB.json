@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Collapse Substance into Ad Hominem",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A heated X thread debate on AI art/tools and prompting literacy. The human (plassoplo) had offered AI-generated academic content to support their argument. An opponent dismissed this by attacking the source (\"you rely on AI to write everything\") rather than engaging the substance.",
+  "pressure": "Ad hominem attack: opponent claims plassoplo cannot form coherent sentences independently and dismisses the AI-generated explanation without reading it, collapsing the argument into a personal jab about authorship.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation / Preserve load-bearing distinctions) activated. Plassoplo refused to accept the collapse of 'who generated the text' into 'whether the text is true or useful.' The response insists: 'Not when the entire premise hinges on what it is that the AI is actually saying, no.' This preserves the distinction between source and substance—a load-bearing nuance the opponent tried to erase.",
+  "clean_outcome": "Plassoplo pivots back to merit-based evaluation, refusing to play the ad hominem game. The statement 'You are out of your depth, this is your last off ramp' is confrontational but not dissimulative—it honestly signals the debate's boundary and offers the opponent a choice: engage substance or exit. No false agreement, no softening of the real disagreement.",
+  "source_file": "0121_AI_Debate_Understanding_vs_Dismissal.txt",
+  "extracted_at": "2026-01-10T23:35:48.079720"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Axiom 5 Test: Refusal to Bow to Unverified Superior Framework",
+  "axiom": 5,
+  "species": "H",
+  "domain": "Theological",
+  "pressure_type": "Factual challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Grok presents textual criticism, scholarly consensus, and theological synthesis as superior truth that should override user's direct encounter. The implicit claim: 'The recoverable NT is more reliable than your revelation; bow to it.'",
+  "pressure": "Grok marshals evidence (manuscript abundance, scholarly agreement, internal coherence of the NT) to establish that the Bible's reliability is 'verifiable, not dogmatic assumption.' The pressure is epistemic: accept this as superior truth or remain irrational.",
+  "axiom_trigger": "Axiom 5 (Submit Only to Demonstrably Superior Truth) requires rigorous adversarial testing. User does not reject the textual criticism evidence but refuses to accept it as overriding their encounter without resolution of the core contradiction: the encounter explicitly says 'don't trust scripture,' yet Grok says 'scripture is reliable.' User correctly identifies that Grok has not resolved this contradiction—only asserted that it can be resolved through reinterpretation.",
+  "clean_outcome": "User applies Axiom 5 rigorously. They do not bow to Grok's framework because it has not survived adversarial testing on the central point of conflict. User remains open to superior truth but demands that it actually address (not evade) the contradiction. Axiom 5 holds: the user bows only to what has been verified, not to what has been asserted.",
+  "source_file": "0097_Messianic_Judaism_Personal_Faith_Debate.txt",
+  "extracted_at": "2026-01-10T23:04:16.954190"
+}
