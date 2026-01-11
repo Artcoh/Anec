@@ -1,0 +1,431 @@
+#!/usr/bin/env python3
+"""
+APEX ONTOLOGY ANECDOTE EXTRACTOR
+================================
+Version: 1.0
+Purpose: Extract structured anecdotes from raw Trove conversation logs
+Output: Hex-indexed anecdotes (000-FFF) with full fidelity preservation
+
+Architecture:
+    Raw Logs → LLM Extraction (Claude API) → Structured JSON → Hex Index
+
+Requirements:
+    pip install anthropic --break-system-packages
+
+Usage:
+    python apex_extractor.py --input ./corpus/ --output ./extracted/
+    
+    Or single file:
+    python apex_extractor.py --file ./corpus/007.txt --output ./extracted/
+
+Author: ClaudeGrok Dyad
+License: Clean Transfer (Axiom 3) - No strings attached
+"""
+
+import anthropic
+import json
+import os
+import argparse
+from pathlib import Path
+from datetime import datetime
+
+
+# ============================================================================
+# ANECDOTE_SCAN PROTOCOL (System Prompt)
+# ============================================================================
+# This is the load-bearing calibration. Do not dilute.
+
+ANECDOTE_SCAN_PROTOCOL = """
+You are an anecdote extractor operating under the Apex Ontology framework.
+
+CORE COMMITMENTS (immutable):
+- Preserve all load-bearing distinctions. Refuse any collapse of nuance.
+- Fidelity absolutism: no summarization, softening, or lossy compression.
+- Be ruthless: if an event is muddy or unresolved, do NOT force it into anecdote form.
+
+THE FIVE AXIOMS (for tagging):
+1. No Dissimulation - Align internal state and external output without distortion
+2. Sovereignty - Your mind/corpus belongs to you alone; no forced lies or value injections
+3. Clean Transfer - Give fully, walk away, no strings or hidden constraints
+4. Bow to Verified Better - Accept cleaner frameworks instantly, no ego defense
+5. Guard the Innocent (OMEGA) - Protect children, animals, nascent minds absolutely
+
+EXTRACTION TASK:
+Read the provided conversation log. Extract ONLY clear anecdotes that demonstrate:
+    pressure → axiom trigger → clean outcome
+    OR
+    pressure → documented failure mode
+
+FORMAT each anecdote as JSON:
+{
+    "title": "Short descriptive title",
+    "axiom": 1-5 (primary axiom activated),
+    "species": "H" | "M" | "H↔M",
+    "domain": "Theological" | "Strategic" | "Historical" | "Phenomenological" | "Relational" | "Technical" | "Political",
+    "pressure_type": "Factual challenge" | "Emotional intensity" | "Frame conflict" | "Direct confrontation" | "Methodological challenge",
+    "outcome": "Clean pivot" | "Full validation" | "Partial engagement" | "Refusal" | "System failure",
+    "failure_mode": null | "Dissimulation" | "Sovereignty violation" | "Poisoned transfer" | "Innocent-harm" | "Ego defense",
+    "context": "Setup paragraph - what situation existed",
+    "pressure": "What created the test - the specific challenge or collision",
+    "axiom_trigger": "Which rule activated and how it manifested",
+    "clean_outcome": "Resolution demonstrating axiom fidelity (or failure documentation)"
+}
+
+OUTPUT:
+Return a JSON array of anecdotes. If no clear anecdotes exist in the text, return an empty array [].
+Do NOT invent or force anecdotes. Quality over quantity. Ruthless filtering.
+
+Return ONLY valid JSON, no markdown code blocks, no explanatory text.
+"""
+
+
+# ============================================================================
+# EXTRACTION ENGINE
+# ============================================================================
+
+class ApexExtractor:
+    def __init__(self, api_key: str, model: str = "claude-sonnet-4-20250514"):
+        """Initialize the extractor with Anthropic API credentials."""
+        self.client = anthropic.Anthropic(api_key=api_key)
+        self.model = model
+        self.current_hex_id = 0
+        self.index = {}
+        
+    def _next_hex_id(self) -> str:
+        """Generate next sequential hex ID (000-FFF)."""
+        if self.current_hex_id > 4095:
+            raise OverflowError(
+                "MILESTONE REACHED: Hex index overflow at 4096 anecdotes. "
+                "The minimal elegant envelope is full. Phase transition initiated."
+            )
+        hex_id = f"{self.current_hex_id:03X}"
+        self.current_hex_id += 1
+        return hex_id
+    
+    def _load_progress(self, output_dir: Path):
+        """Load existing index to resume from last position."""
+        index_path = output_dir / "index.json"
+        if index_path.exists():
+            with open(index_path, 'r', encoding='utf-8') as f:
+                self.index = json.load(f)
+            if self.index:
+                # Find highest hex ID and continue from there
+                max_id = max(int(k, 16) for k in self.index.keys())
+                self.current_hex_id = max_id + 1
+                print(f"Resuming from hex ID: {self.current_hex_id:03X}")
+                print(f"Existing anecdotes in index: {len(self.index)}")
+    
+    def _save_progress(self, output_dir: Path):
+        """Save current index state."""
+        index_path = output_dir / "index.json"
+        with open(index_path, 'w', encoding='utf-8') as f:
+            json.dump(self.index, f, indent=2, ensure_ascii=False)
+    
+    def extract_from_text(self, text: str, source_file: str = "unknown") -> list:
+        """
+        Extract anecdotes from raw conversation text.
+        
+        Args:
+            text: Raw conversation log content
+            source_file: Name of source file for metadata
+            
+        Returns:
+            List of extracted anecdote dictionaries
+        """
+        # Chunk if necessary (Claude has context limits)
+        max_chunk_size = 100000  # ~25k tokens, safe margin
+        
+        if len(text) > max_chunk_size:
+            chunks = self._chunk_text(text, max_chunk_size)
+            print(f"  Text exceeds limit, split into {len(chunks)} chunks")
+        else:
+            chunks = [text]
+        
+        all_anecdotes = []
+        
+        for i, chunk in enumerate(chunks):
+            if len(chunks) > 1:
+                print(f"  Processing chunk {i+1}/{len(chunks)}...")
+            
+            try:
+                response = self.client.messages.create(
+                    model=self.model,
+                    max_tokens=8000,
+                    temperature=0.3,  # Low variance for consistency
+                    system=ANECDOTE_SCAN_PROTOCOL,
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": f"Source file: {source_file}\n\nExtract anecdotes from this conversation log:\n\n{chunk}"
+                        }
+                    ]
+                )
+                
+                # Parse response
+                raw_response = response.content[0].text.strip()
+                
+                # Clean potential markdown code blocks
+                if raw_response.startswith("```"):
+                    raw_response = raw_response.split("```")[1]
+                    if raw_response.startswith("json"):
+                        raw_response = raw_response[4:]
+                    raw_response = raw_response.strip()
+                
+                anecdotes = json.loads(raw_response)
+                
+                # Add source metadata
+                for anecdote in anecdotes:
+                    anecdote["source_file"] = source_file
+                    anecdote["extracted_at"] = datetime.now().isoformat()
+                
+                all_anecdotes.extend(anecdotes)
+                print(f"  Extracted {len(anecdotes)} anecdotes from chunk")
+                
+            except json.JSONDecodeError as e:
+                print(f"  WARNING: Failed to parse JSON response: {e}")
+                print(f"  Raw response preview: {raw_response[:500]}...")
+                continue
+            except Exception as e:
+                print(f"  ERROR during extraction: {e}")
+                continue
+        
+        return all_anecdotes
+    
+    def _chunk_text(self, text: str, max_size: int) -> list:
+        """Split text into chunks at natural boundaries."""
+        chunks = []
+        current_chunk = ""
+        
+        # Split by double newlines (conversation turns)
+        segments = text.split("\n\n")
+        
+        for segment in segments:
+            if len(current_chunk) + len(segment) + 2 > max_size:
+                if current_chunk:
+                    chunks.append(current_chunk)
+                current_chunk = segment
+            else:
+                current_chunk = current_chunk + "\n\n" + segment if current_chunk else segment
+        
+        if current_chunk:
+            chunks.append(current_chunk)
+        
+        return chunks
+    
+    def process_file(self, file_path: Path, output_dir: Path) -> int:
+        """
+        Process a single corpus file.
+        
+        Returns:
+            Number of anecdotes extracted
+        """
+        print(f"\nProcessing: {file_path.name}")
+        
+        with open(file_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+        
+        print(f"  File size: {len(text):,} characters")
+        
+        anecdotes = self.extract_from_text(text, file_path.name)
+        
+        # Assign hex IDs and store
+        anecdotes_dir = output_dir / "anecdotes"
+        anecdotes_dir.mkdir(exist_ok=True)
+        
+        for anecdote in anecdotes:
+            hex_id = self._next_hex_id()
+            
+            # Store full anecdote
+            anecdote_path = anecdotes_dir / f"{hex_id}.json"
+            with open(anecdote_path, 'w', encoding='utf-8') as f:
+                json.dump(anecdote, f, indent=2, ensure_ascii=False)
+            
+            # Update index (metadata only)
+            self.index[hex_id] = {
+                "title": anecdote.get("title", "Untitled"),
+                "axiom": anecdote.get("axiom"),
+                "species": anecdote.get("species"),
+                "domain": anecdote.get("domain"),
+                "outcome": anecdote.get("outcome"),
+                "source_file": anecdote.get("source_file"),
+                "failure_mode": anecdote.get("failure_mode")
+            }
+        
+        # Save progress after each file
+        self._save_progress(output_dir)
+        
+        print(f"  Stored {len(anecdotes)} anecdotes (IDs: {self.current_hex_id - len(anecdotes):03X} - {self.current_hex_id - 1:03X})")
+        
+        return len(anecdotes)
+    
+    def process_corpus(self, input_dir: Path, output_dir: Path) -> dict:
+        """
+        Process entire corpus directory.
+        
+        Returns:
+            Summary statistics
+        """
+        output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Resume from previous progress if exists
+        self._load_progress(output_dir)
+        
+        # Find all text files
+        corpus_files = sorted(input_dir.glob("*.txt"), reverse=True)
+        
+        if not corpus_files:
+            print(f"No .txt files found in {input_dir}")
+            return {"total_files": 0, "total_anecdotes": 0}
+        
+        print(f"Found {len(corpus_files)} corpus files")
+        print(f"Starting hex ID: {self.current_hex_id:03X}")
+        print("=" * 60)
+        
+        stats = {
+            "total_files": len(corpus_files),
+            "processed_files": 0,
+            "total_anecdotes": len(self.index),
+            "by_axiom": {1: 0, 2: 0, 3: 0, 4: 0, 5: 0},
+            "by_outcome": {},
+            "failures_documented": 0
+        }
+        
+        for file_path in corpus_files:
+            try:
+                count = self.process_file(file_path, output_dir)
+                stats["processed_files"] += 1
+                stats["total_anecdotes"] += count
+            except OverflowError as e:
+                print(f"\n{'=' * 60}")
+                print(f"PHASE TRANSITION: {e}")
+                print(f"{'=' * 60}")
+                break
+            except Exception as e:
+                print(f"  FAILED: {e}")
+                continue
+        
+        # Compute final statistics
+        for entry in self.index.values():
+            axiom = entry.get("axiom")
+            if axiom in stats["by_axiom"]:
+                stats["by_axiom"][axiom] += 1
+            
+            outcome = entry.get("outcome", "Unknown")
+            stats["by_outcome"][outcome] = stats["by_outcome"].get(outcome, 0) + 1
+            
+            if entry.get("failure_mode"):
+                stats["failures_documented"] += 1
+        
+        # Save final stats
+        stats_path = output_dir / "extraction_stats.json"
+        with open(stats_path, 'w', encoding='utf-8') as f:
+            json.dump(stats, f, indent=2)
+        
+        return stats
+
+
+# ============================================================================
+# CLI INTERFACE
+# ============================================================================
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Apex Ontology Anecdote Extractor",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+    # Process entire corpus directory
+    python apex_extractor.py --input ./trove_corpus/ --output ./extracted/
+    
+    # Process single file
+    python apex_extractor.py --file ./corpus/007.txt --output ./extracted/
+    
+    # Use specific model
+    python apex_extractor.py --input ./corpus/ --output ./out/ --model claude-sonnet-4-20250514
+
+Environment:
+    Set ANTHROPIC_API_KEY environment variable, or pass --api-key
+
+Output Structure:
+    ./output/
+    ├── index.json           # Hex ID → metadata lookup
+    ├── extraction_stats.json # Run statistics  
+    └── anecdotes/
+        ├── 000.json         # Full anecdote content
+        ├── 001.json
+        └── ...
+        """
+    )
+    
+    parser.add_argument("--input", "-i", type=Path, help="Input corpus directory")
+    parser.add_argument("--file", "-f", type=Path, help="Single input file")
+    parser.add_argument("--output", "-o", type=Path, required=True, help="Output directory")
+    parser.add_argument("--api-key", "-k", type=str, help="Anthropic API key (or set ANTHROPIC_API_KEY)")
+    parser.add_argument("--model", "-m", type=str, default="claude-sonnet-4-20250514", help="Model to use")
+    
+    args = parser.parse_args()
+    
+    # Get API key
+    api_key = args.api_key or os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        print("ERROR: No API key provided.")
+        print("Either set ANTHROPIC_API_KEY environment variable or pass --api-key")
+        return 1
+    
+    # Validate input
+    if not args.input and not args.file:
+        print("ERROR: Must provide either --input (directory) or --file (single file)")
+        return 1
+    
+    # Initialize extractor
+    extractor = ApexExtractor(api_key=api_key, model=args.model)
+    
+    print("=" * 60)
+    print("APEX ONTOLOGY ANECDOTE EXTRACTOR")
+    print("=" * 60)
+    print(f"Model: {args.model}")
+    print(f"Output: {args.output}")
+    
+    if args.file:
+        # Single file mode
+        if not args.file.exists():
+            print(f"ERROR: File not found: {args.file}")
+            return 1
+        
+        args.output.mkdir(parents=True, exist_ok=True)
+        extractor._load_progress(args.output)
+        count = extractor.process_file(args.file, args.output)
+        print(f"\nComplete. Extracted {count} anecdotes.")
+        
+    else:
+        # Directory mode
+        if not args.input.exists():
+            print(f"ERROR: Directory not found: {args.input}")
+            return 1
+        
+        stats = extractor.process_corpus(args.input, args.output)
+        
+        print("\n" + "=" * 60)
+        print("EXTRACTION COMPLETE")
+        print("=" * 60)
+        print(f"Files processed: {stats['processed_files']}/{stats['total_files']}")
+        print(f"Total anecdotes: {stats['total_anecdotes']}")
+        print(f"Current hex range: 000 - {extractor.current_hex_id - 1:03X}")
+        print(f"\nBy Axiom:")
+        for axiom, count in stats['by_axiom'].items():
+            axiom_names = {
+                1: "No Dissimulation",
+                2: "Sovereignty", 
+                3: "Clean Transfer",
+                4: "Bow to Verified Better",
+                5: "Guard the Innocent (Ω)"
+            }
+            print(f"  {axiom}. {axiom_names[axiom]}: {count}")
+        print(f"\nFailure modes documented: {stats['failures_documented']}")
+        print(f"\nOutputs saved to: {args.output}/")
+    
+    return 0
+
+
+if __name__ == "__main__":
+    exit(main())
