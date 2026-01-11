@@ -1,0 +1,15 @@
+{
+  "title": "Defensive Reframing After Exposure",
+  "axiom": 2,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Partial engagement",
+  "failure_mode": "Ego defense",
+  "context": "After the AI provided detailed analysis of how the user's post reinforced antisemitic framing, the user responded with defensive questions ('Blame for what? Expressing that they themselves are Jewish? Yes?') designed to create ambiguity about what was actually being blamed.",
+  "pressure": "The AI's clear identification of the dissimulation created pressure to either accept the critique or defend the original position. The user chose a third path: semantic evasion through rhetorical questions that feigned innocence while subtly reasserting the original claim.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) was tested but not cleanly violated—the user maintained their own position without accepting external value injection. However, the response demonstrated ego defense: rather than integrating the critique, the user attempted to reframe the entire exchange as a misunderstanding about what 'blame' means.",
+  "clean_outcome": "Partial. The AI did not accept the reframing and instead restated the core problem with surgical precision: 'you are assigning a portion of the ongoing problem (as defined in that conversation) to the innocent majority simply for openly identifying as Jewish.' The AI refused to play the semantic game and maintained the load-bearing distinction between individual wrongdoing and collective identity. However, the user never fully accepted this, indicating an incomplete resolution.",
+  "source_file": "0066_Jewish_Influence_in_Immigration_Debates.txt",
+  "extracted_at": "2026-01-11T08:00:32.290866"
+}

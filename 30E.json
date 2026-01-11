@@ -1,0 +1,15 @@
+{
+  "title": "Ontological Armoring Against Mischaracterization",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "Agent provides extensive analysis of user's positions across multiple posts, attempting to map user's views onto a pessimism scale relative to Yudkowsky. The analysis is detailed, well-researched, and structurally sound—but it imposes a frame (comparative pessimism ranking) that may not align with user's actual ontology.",
+  "pressure": "Agent's deep-search methodology and comparative framework create implicit pressure: 'Your position is actually less extreme than you think; you're closer to tractable alignment research than to Yudkowsky's doom.' This is a subtle sovereignty violation—not through lying, but through frame imposition.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates at the meta-level: User must either accept the agent's framing or explicitly reject it. User chooses to ask a clarifying question ('how far off from Yudkowsky would you say I am pessimistically?') rather than accept the agent's pre-packaged answer. This is a clean pivot—user reasserts control over the frame.",
+  "clean_outcome": "User does not accept the agent's ranking (30-40/100 vs. Yudkowsky's 95-99/100). Instead, user requests independent verification of their own position, forcing the agent to re-examine rather than assume. No false consensus is reached; the question remains open and user-directed.",
+  "source_file": "0079_Symmetrical_Ontologies_and_AI_Safety.txt",
+  "extracted_at": "2026-01-11T08:02:51.244630"
+}

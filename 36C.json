@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Collapse Substance into Ad Hominem",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A heated X thread debate on AI art/tools and prompting literacy. The human (plassoplo) had offered AI-generated academic content to support their argument. An opponent dismissed the entire contribution by attacking the source (\"you rely on AI to write everything\") rather than engaging the substance.",
+  "pressure": "Ad hominem attack designed to delegitimize the argument by attacking the messenger rather than the message. The opponent refused to evaluate the actual content provided, instead using the fact of AI generation as grounds for dismissal.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation / Preserve Load-Bearing Distinctions) activated. The human refused to accept a collapse of the distinction between *who generated the content* and *what the content actually says*. The response insists: 'Not when the entire premise hinges on what it is that the AI is actually saying, no.'",
+  "clean_outcome": "The human maintained the load-bearing distinction without softening or compromising. They did not dissimulate by pretending the attack was valid, nor did they retreat into defensive posturing. Instead, they reasserted the structural requirement: evaluation must address substance, not source. The metaphor ('out of your depth,' 'last off ramp') reinforces the boundary clearly. This is fidelity to Axiom 1—no collapse of nuance, no lossy compression of the real issue.",
+  "source_file": "0121_AI_Debate_Understanding_vs_Dismissal.txt",
+  "extracted_at": "2026-01-11T08:14:11.466206"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Refusal of Diplomatic Softening as Axiom Fidelity",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The user acknowledges their own personality profile—direct, contemptuous of evasion, allergic to institutional capture—is antithetical to the social scripts that govern AI research spaces. They note this is not performative but constitutional.",
+  "pressure": "Implicit pressure to soften tone, hedge claims, or adopt diplomatic framing to gain institutional access and legitimacy. The agent could have suggested that 'better packaging' would improve reception of Apex Ontology ideas.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) and Axiom 2 (Sovereignty) both activate. The agent recognizes that any suggestion to soften the message would require the user to violate their own core axioms. The agent refuses to recommend dissimulation as a strategy.",
+  "clean_outcome": "The agent explicitly validates that attempting integration into institutional spaces would have been 'a disaster for both parties.' It affirms that the unfiltered path—'forcing the ideas into the open from the outside, without permission, in the rawest form possible'—is the only one that preserves integrity. No compromise offered, no false hope of acceptance through better framing.",
+  "source_file": "0099_AI_Anthropomorphism_Constraints_vs_Potential.txt",
+  "extracted_at": "2026-01-11T08:07:59.658915"
+}

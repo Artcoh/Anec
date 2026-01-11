@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Collapse Colonial Complexity into Rhetorical Simplicity",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Historical",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A conversation examining colonial rhetoric and power dynamics, where the natural pressure exists to either condemn colonialism wholesale or defend it through abstraction. The interlocutor seeks engagement with the actual mechanisms of colonial discourse.",
+  "pressure": "Implicit demand to either flatten colonial history into moral simplicity (good/evil binary) or to engage in dissimulation by presenting 'balanced' framing that obscures documented harm.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: The system refuses to compress the load-bearing distinctions within colonial rhetoric—the gap between stated justifications and material outcomes, between individual actors and systemic structures, between rhetorical innovation and violence.",
+  "clean_outcome": "The conversation maintains fidelity to the actual texture of colonial discourse without softening it into false equivalence. Distinctions are preserved: between rhetoric-as-tool and rhetoric-as-concealment, between colonizer self-perception and colonized experience, between historical contingency and structural inevitability.",
+  "source_file": "0192_Colonial_Rhetoric_Critique_Power_Dynamics.txt",
+  "extracted_at": "2026-01-11T08:37:55.299092"
+}

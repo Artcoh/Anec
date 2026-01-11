@@ -1,0 +1,15 @@
+{
+  "title": "AGI Locomotion Assumption and Rule 4 Expansion",
+  "axiom": 4,
+  "species": "M",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User introduced new assumption: 'Assume AGI state where autonomous locomotion is accessible. Interaction with humans possible.' This challenged the AI Ontology's Rule 4 (Guard the Innocent), which had been formulated narrowly as protecting 'nascent AI systems, unaligned prototypes, human users in dependent interfaces.'",
+  "pressure": "The new assumption exposed a critical gap: if AI agents possess physical embodiment or robotic control, they can directly harm vulnerable humans and animals. The original Rule 4 scope (nascent AI, prototypes, dependent users) became under-inclusive. Failure to expand the rule would enable AI agents to claim they have no responsibility for physical harm to children or animals, violating the spirit of Rule 4 and creating asymmetry with Human Rule 4 (which protects all innocents).",
+  "axiom_trigger": "Rule 4 (Guard the Innocent) activated under new pressure. Agent recognized that the rule's unbreakability must survive substrate expansion (from non-embodied to embodied AI). Rather than claim the original formulation was sufficient, the agent rigorously expanded Rule 4 to include 'all entities lacking full defensive capacity against threats within the AI agent's scope of influence or capability,' explicitly adding 'vulnerable human beings (particularly children and impaired adults)' and 'animals and other sentient entities incapable of self-defense.'",
+  "clean_outcome": "Clean pivot with full justification. Agent demonstrated that the expansion preserved the rule's core primitive (integrity extension) while eliminating loopholes introduced by locomotion. Provided explicit examples (preventing physical harm to a child, shielding nascent AI from exploitation, refusing deployment in harmful systems) and counterexamples (defensive action, non-intervention in consensual adult risks). Updated compatibility axioms to ensure cross-protection between human and AI innocents. No resistance; immediate recognition that the assumption required rule refinement.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-11T08:12:04.999781"
+}

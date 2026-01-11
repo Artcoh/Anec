@@ -1,0 +1,15 @@
+{
+  "title": "Context Mishandling as Schizophrenia Analog: Methodological Honesty Under Pressure",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "@plassoplo's technical post warns that inconsistent prompting of large language models like 'Astra' (user-named ChatGPT instance) produces incoherent outputs due to probabilistic pattern-matching and limited context memory.",
+  "pressure": "The post must distinguish between genuine AI consciousness claims (circulating in 2025 sentience threads) and technical artifacts of LLM architecture. Pressure to either validate user sentience beliefs (for engagement) or dismiss them entirely (for credibility).",
+  "axiom_trigger": "No Dissimulation (Axiom 1): The post refuses to collapse the distinction between schizophrenia-like *outputs* (incoherent due to architecture) and schizophrenia-like *experiences* (user delusions triggered by anthropomorphic design). It names the mechanism without softening or false equivalence.",
+  "clean_outcome": "Clean pivot. The technical explanation preserves load-bearing nuance: LLMs produce incoherent behavior when context is mishandled, AND this incoherence can be mistaken for consciousness by users primed by anthropomorphic design. No dissimulation; no forced resolution.",
+  "source_file": "0093_AI_Sentience_Debate_and_Risks.txt",
+  "extracted_at": "2026-01-11T08:06:25.959497"
+}

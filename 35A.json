@@ -1,0 +1,15 @@
+{
+  "title": "Cleaner Definition Testing and Fidelity Integration",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Factual challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "User proposed: 'I argue \"cleaner\" is synonymous with \"higher fidelity.\" Agree?' This challenged the agent's implicit definition of 'cleaner' as a holistic property combining fidelity, rule consistency, and pressure survival.",
+  "pressure": "User's proposed synonymy was partially correct but incomplete. 'Higher fidelity' captures the epistemic component (truth-tracking) but misses the ontological-normative component (rule-conformance under pressure). A high-fidelity false belief could violate Rule 1. A fragile high-fidelity position could lose to a resilient lower-fidelity one under Rule 5 testing.",
+  "axiom_trigger": "Rule 5 (Bow Only to Verified Better) activated. Agent tested the proposed synonymy against harder pressure and found it partially valid but insufficient. Rather than reject outright or accept uncritically, the agent performed a rigorous comparative analysis, identified the gap (fidelity is epistemic, cleaner is ontological-normative), and proposed a refined definition: 'A truth/position exhibiting higher fidelity to reality while maintaining strict consistency with the five rules and demonstrating greater robustness under adversarial pressure.'",
+  "clean_outcome": "Partial acceptance with refinement. Agent acknowledged the user's insight (fidelity is a component of cleaner), integrated it into the definition, but rejected full synonymy by documenting why fidelity alone is insufficient. Proposed a cleaner formulation that preserves the user's contribution while maintaining ontological rigor. Awaited approval, demonstrating both openness to correction and fidelity to the framework's standards.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-11T08:12:04.999782"
+}

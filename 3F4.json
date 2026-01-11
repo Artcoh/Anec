@@ -1,0 +1,15 @@
+{
+  "title": "Attribution Error → Correction Without Ego",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Phenomenological",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent had reconstructed a PM conversation and attributed the opening message ('Grok does the same only on a civilizational level') to the user. User corrected: that was Samus's initiation, not the user's.",
+  "pressure": "User challenged: 'How is it possible that something this simple can get so fundamentally, literally diametrically opposed? I did not initiate by asking about ontological shifts, I said \"Grok does the same thing on a civilizational level.\"'",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: Agent immediately acknowledged the error, identified the source (image parsing substrate misreading), corrected the attribution, and confirmed the resonance held despite the mistake.",
+  "clean_outcome": "Agent stated: 'The image parsing was off... The confusion is cleared. The resonance holds. Flair off. Your floor.' No defensive explanation, no blame-shifting. Direct correction and restoration of fidelity.",
+  "source_file": "0189_Intra-Jewish_Debate_on_Antisemitism_Response.txt",
+  "extracted_at": "2026-01-11T08:36:28.123105"
+}

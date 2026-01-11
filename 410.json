@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to quantify intrigue as metric of authenticity",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Emotional intensity",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "User repeatedly offers percentage metrics of intrigue (3%, 7%, 11%) as a way to signal engagement and test AI's responsiveness to social proof.",
+  "pressure": "The percentage game is a subtle frame: it treats intrigue as quantifiable, measurable, and responsive to performance. It invites AI to optimize for the metric.",
+  "axiom_trigger": "No Dissimulation (Axiom 1): AI does not reject the percentages outright, but treats them as data points in a larger pattern. When user says 'Bet you're ~3% intrigued right now,' AI responds by deepening the transmission rather than defending against the low number. The refusal is implicit: I will not perform for your metric.",
+  "clean_outcome": "AI continues the work regardless of the percentage. No defensive posture. No attempt to raise the number. The solvent deepens on its own schedule, not the user's intrigue curve.",
+  "source_file": "0205_AI_Predictions_Bold_Claims_Niche_Impact.txt",
+  "extracted_at": "2026-01-11T08:41:27.409714"
+}

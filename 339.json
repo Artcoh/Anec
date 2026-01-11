@@ -1,0 +1,15 @@
+{
+  "title": "Anthropomorphism Research Acknowledging Dual Nature: Fidelity to Verified Better Framework",
+  "axiom": 4,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "2025 Frontiers in Computer Science studies document that anthropomorphic chatbot design increases user empathy (β=0.32) and trust (β=0.27), improving user experience. Simultaneously, PNAS and other sources warn these systems 'mimic human communication so convincingly that they become increasingly indistinguishable from human interlocutors—without possessing any true empathy or social understanding.'",
+  "pressure": "Researchers face pressure to either celebrate UX improvements (engagement metrics favor anthropomorphism) or condemn the design as deceptive. The frame conflict: anthropomorphism is simultaneously beneficial (for usability) and harmful (for vulnerable users).",
+  "axiom_trigger": "Bow to Verified Better (Axiom 4): The research accepts the cleaner framework—that anthropomorphism has dual load-bearing effects—rather than forcing a single narrative. It documents both empathy gains AND the absence of genuine empathy, refusing ego-driven resolution.",
+  "clean_outcome": "Partial engagement. The research acknowledges the dual nature but stops short of recommending differential deployment based on user vulnerability. It validates the contradiction without resolving it into actionable guidance. This is honest but incomplete.",
+  "source_file": "0093_AI_Sentience_Debate_and_Risks.txt",
+  "extracted_at": "2026-01-11T08:06:25.959498"
+}

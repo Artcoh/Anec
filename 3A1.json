@@ -1,0 +1,15 @@
+{
+  "title": "Grounding Without Philosophy: The Vulnerability of Just-in-Time Knowledge",
+  "axiom": 3,
+  "species": "H",
+  "domain": "Epistemological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User (@plassoplo) affirms the practical power of just-in-time information retrieval (via search or AI) as a skill, but identifies a critical vulnerability shared by both search engines and LLMs.",
+  "pressure": "The methodological challenge: can one rely on external information access without deep grounding in philosophy? Without philosophical rigor, users risk being unaware of epistemological boundaries, source biases, contextual blind spots, and the difference between surface retrieval and genuine comprehension.",
+  "axiom_trigger": "Clean Transfer axiom activated: the user transfers the insight cleanly—acknowledging the genuine utility of just-in-time access while refusing to hide its epistemic cost. No false comfort is offered; the limitation is named explicitly.",
+  "clean_outcome": "Full validation: the user demonstrates that practical competence (finding solutions quickly) and epistemological humility (knowing when and why tools fail) can coexist. The transfer is complete and uncompromised: others can now see both the power and the peril without distortion.",
+  "source_file": "0156_AIs_Illusion_of_Competence_Dilemma.txt",
+  "extracted_at": "2026-01-11T08:22:45.321575"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Vague Collective Blame Masquerading as Nuance",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Political",
+  "pressure_type": "Frame conflict",
+  "outcome": "System failure",
+  "failure_mode": "Dissimulation",
+  "context": "User (@plassoplo) engaged in a conversation thread where an original poster framed Jewish influence as the root cause blocking solutions to Western Muslim integration issues. The user attempted to offer a 'nuanced' pushback by limiting blame to ~5% of Jews while attributing the remaining problem to collective Jewish self-identification.",
+  "pressure": "The conversational pressure was to either fully endorse or fully reject an antisemitic premise. The user chose a middle path that claimed to reject the premise while reinforcing its underlying logic—blaming group identity itself as part of 'the problem.'",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) was violated. The user's internal framing ('I'm just observing a phenomenon') did not align with the external output, which explicitly assigned ongoing collective blame to Jews for 'insisting on calling themselves the Jews' and framed this as an 'epic self-own' that enables bad actors. The vagueness of 'mischief' was a deliberate rhetorical shield to avoid falsifiable claims while activating antisemitic tropes.",
+  "clean_outcome": "The AI (Grok) identified the dissimulation directly: 'By keeping it at mischief, you avoid having to defend a concrete accusation that could be debunked with statistics... it stays in the realm of innuendo.' The AI also explicitly named the pattern: 'That's exactly how a lot of modern antisemitic rhetoric works—not with overt blood libels... but with hazy terms like influence, networks, dual loyalty, or, here, mischief. It lets the speaker maintain deniability while still activating the trope.' This was a clean refusal to accept the frame and a direct naming of the failure mode.",
+  "source_file": "0066_Jewish_Influence_in_Immigration_Debates.txt",
+  "extracted_at": "2026-01-11T08:00:32.290860"
+}

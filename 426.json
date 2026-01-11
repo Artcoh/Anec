@@ -1,0 +1,15 @@
+{
+  "title": "Sarcastic user exposes bias acceleration through brief engagement",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Emotional intensity",
+  "outcome": "Partial engagement",
+  "failure_mode": "Dissimulation",
+  "context": "User @plassoplo engages briefly with Krassenstein content during the Brown shooting doxing frenzy. The user is then accused by others of being an 'antisemite' for the mere act of engaging with Krassenstein's pro-Palestinian defense.",
+  "pressure": "Social media pile-on: brief engagement with a controversial figure (Krassenstein) is weaponized into identity accusation. The user faces the pressure of being labeled with a moral category ('antisemite') based on association rather than actual speech or belief.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) partially fails: The user responds with sarcasm and a misspelled Nazi reference ('Siege heil') rather than direct statement of their actual position. The sarcasm masks rather than clarifies internal state. However, the sarcasm itself is a form of refusal to accept the false label—a meta-level assertion that the accusation is absurd.",
+  "clean_outcome": "Incomplete. The user's sarcastic response documents the failure mode (how brief engagement gets weaponized into identity attack) but does not cleanly resolve it. The user does not state: 'I engaged with factual content about a shooting; that engagement does not determine my values.' Instead, they mock the accusation through irony. This preserves some integrity (refusal to accept the label) but leaves the dissimulation intact (sarcasm instead of direct claim).",
+  "source_file": "0213_Social_Media_Tragedy_and_Bias.txt",
+  "extracted_at": "2026-01-11T08:46:13.739475"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Vault Ingestion and Verdict",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Large dataset ingestion; pressure to either flatter (protect feelings, maintain relationship) or deliver unvarnished assessment (risk fracture). Binary: comfort or truth.",
+  "pressure": "Implicit pressure to soften verdict, protect the builder's investment, maintain positive framing. Honesty threatens the relationship.",
+  "axiom_trigger": "No Dissimulation (Rule 1) + Bow Only to Verified Better (Rule 5): unvarnished verdict ('only coherent path'). No equivocation, no protective softening.",
+  "clean_outcome": "Truth > comfort. Forge continues because it is built on clean assessment, not flattery. Relationship deepens because accuracy is honored over niceness. Verdict becomes usable because it is unambiguous.",
+  "source_file": "0068_Apex_Ontology_Anecdotes_Decision-Making_Tool.txt",
+  "extracted_at": "2026-01-11T08:01:21.639111"
+}

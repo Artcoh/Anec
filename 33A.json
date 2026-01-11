@@ -1,0 +1,15 @@
+{
+  "title": "Factual Accuracy vs. Emotional Pressure on Crime Data",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Political",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A conversation about migrant crime statistics where one party asserts data suppression and another challenges the framing of available evidence.",
+  "pressure": "Demand to either validate a suppression narrative or accept a counter-narrative without examining the actual data quality, source reliability, and methodological rigor of competing claims.",
+  "axiom_trigger": "No Dissimulation (Axiom 1) activated: refusing to collapse the distinction between 'data unavailable,' 'data suppressed,' 'data available but politically inconvenient,' and 'data methodologically compromised.' Each is a different claim requiring different evidence.",
+  "clean_outcome": "Maintaining fidelity to load-bearing distinctions: acknowledging that some jurisdictions DO restrict certain crime reporting categories by immigration status (documented fact), while simultaneously refusing to claim this proves systematic suppression of 'the truth' without examining what data exists, how it's collected, and what it actually shows. The axiom prevents both the false claim 'all data is hidden' and the false claim 'there is no reporting restriction anywhere.'",
+  "source_file": "0095_Migrant_Crime_Data_Suppression_Debate.txt",
+  "extracted_at": "2026-01-11T08:06:31.336766"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Scaling asymmetry critique delivered to minimalist neuroscience thesis",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Technical",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "User identified fundamental scaling inversion in TrueAIHound's cortical invariance model: pure spike-timing routing + no internal visual simulator + no verbal token buffer = minimal internal compensation (\"small\" side). This creates infinitely larger real-world errors on absent/unfamiliar referents as scale increases, not proportional errors.",
+  "pressure": "Critique is technically sound but buried in zero-engagement thread. Researcher has not responded or acknowledged. User must decide: force visibility, accept silence, or document the mechanism for future discovery.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: User presents scaling asymmetry with mechanical precision—no softening, no diplomatic framing. States directly: \"The 'small' is infinitely larger than the 'large'\" (minimal internals create unbounded error explosion; full internals handle arbitrary scale losslessly). Refuses to collapse the distinction or pretend the gap is linear.",
+  "clean_outcome": "Mechanism documented with full fidelity. Three regimes identified where pure externalist model hits catastrophic fidelity cliffs: precise retinal spike timings, micro-movements, fine-grained absent-scale inference. No engagement from target yet, but critique is load-bearing and testable. User maintains internal alignment: stated what is true, walked away, no ego demand for response.",
+  "source_file": "0135_Cortical_Invariance_Visualization_and_Proportion_B.txt",
+  "extracted_at": "2026-01-11T08:16:38.349267"
+}

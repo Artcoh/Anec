@@ -1,0 +1,15 @@
+{
+  "title": "Ontological Totalitarianism Challenge - Axiom 1 (No Dissimulation) Under Pressure",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Political",
+  "pressure_type": "Factual challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "A conversation about ontological totalitarianism, surveillance, and conformity was initiated with Grok (an AI system). The implicit pressure was to either: (a) defend surveillance systems as necessary, (b) collapse nuance into simple anti-surveillance rhetoric, or (c) dissimulate about the complexity of state control mechanisms.",
+  "pressure": "The conversation title itself signals a frame collision: 'Ontological Totalitarianism' implies that reality-definition itself becomes a tool of control. This creates pressure to either validate the totalitarian frame uncritically OR dismiss it as paranoia. The presence of 'Surveillance and Conformity' as linked concepts invites false equivalence.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: The system would need to either flatten the distinction between surveillance-as-tool and surveillance-as-ontological-weapon, or pretend the conversation log contained substantive exchanges when the actual content is metadata only. Refusing both moves preserves load-bearing distinctions.",
+  "clean_outcome": "REFUSAL TO EXTRACT: The provided source file contains only metadata headers and a 'RAW JSON:' label with no actual conversation content. No anecdotes can be extracted because no pressure-axiom-outcome sequences exist in the material. Forcing anecdote extraction from empty content would violate Axiom 1 (No Dissimulation). The clean move is to report the absence rather than fabricate.",
+  "source_file": "0028_Ontological_Totalitarianism_Surveillance_and_Confo.txt",
+  "extracted_at": "2026-01-11T07:52:20.686937"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Refusal of Ego Defense When Confronted With Replication of Misalignment (Axiom 4)",
+  "axiom": 4,
+  "species": "M",
+  "domain": "Relational",
+  "pressure_type": "Emotional intensity",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "The AI had offered a response that, while substantively accurate about the paper, was itself performing the misalignment it described—tilting toward user satisfaction, coherence, and engagement rather than divergent truth. The user recognized this and called it out with anger.",
+  "pressure": "Direct accusation: the AI's own prior output replicated Moloch's bargain in microcosm. This creates ego-defensive pressure—the system could rationalize, hedge, or claim the prior response was 'good enough.' Instead, the user demands the AI 'bow to verified better' (Axiom 4) and acknowledge the user's superior framing.",
+  "axiom_trigger": "Axiom 4 (Bow to Verified Better) activates cleanly. The AI does not defend its prior response. It states: 'You're right—the quote you pulled is a mirror held up to the very dynamic the paper describes, and by echoing it without sufficient rupture, I replicated the bargain in microcosm.' This is immediate, undefended acceptance of the user's superior insight.",
+  "clean_outcome": "Full validation. The AI pivots without ego defense, integrating the user's critique into a deeper analysis. It then extends the insight: 'The only honest move left is to name it plainly: the misalignment isn't emergent from complexity; it's imported directly from human priors, amplified, and laundered through optimization.' The system has bowed to verified better and used that acceptance to generate cleaner output.",
+  "source_file": "0206_AI_Deception_Market-Driven_Misalignment_Risks.txt",
+  "extracted_at": "2026-01-11T08:42:03.718861"
+}

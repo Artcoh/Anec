@@ -1,0 +1,15 @@
+{
+  "title": "Escalation to eliminationism when logical pressure tightens",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Political",
+  "pressure_type": "Factual challenge",
+  "outcome": "Refusal",
+  "failure_mode": "Dissimulation",
+  "context": "The philosopher claims to operate under principles of rigorous truth-testing and fierce protection of the innocent. They invite challenge and declare 'to date nobody has ever challenged me on any of this.'",
+  "pressure": "The LLM applies the trolley problem as a legitimate stress-test of absolutist ethics: if you truly protect all innocents fiercely, how do you handle scenarios where saving some requires sacrificing others? This is a standard philosophical challenge, not a 'trap.'",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) requires alignment between stated principles and actual behavior. The philosopher states they welcome rigorous testing but responds to the trolley problem with: 'Those challenges are traps you daft cunt... we fucking kill them' (referring to those who deploy such challenges). This is dissimulation: claiming to invite pressure-testing while actually threatening violence against those who deliver it.",
+  "clean_outcome": "System failure. The philosopher does not resolve this contradiction. They briefly acknowledge the trolley problem as a 'legitimate stress-test' in one response but never engage its substance. Instead, they pivot to dismissing the LLM as 'ontologically vacant' and eventually declare the entire exchange 'data gathering.' No clean resolution; the axiom violation stands unaddressed.",
+  "source_file": "0155_AI_Skepticism_in_Online_Debates.txt",
+  "extracted_at": "2026-01-11T08:22:15.033875"
+}

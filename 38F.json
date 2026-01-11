@@ -1,0 +1,15 @@
+{
+  "title": "Ontological Reframing Against Procedural Collapse",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "Thread debates AI rollout safety. @Dan_Jeffries1 argues decentralized tech diffusion is historical norm; Tristan Harris counters with existential risk concerns. Debate frames issue procedurally (speed, distribution, precedent).",
+  "pressure": "Implicit pressure to engage within procedural frame: 'Is rollout fast or slow? Centralized or decentralized? What does history teach?' Frame assumes ontological neutrality—that the *how* of rollout matters more than the *what* (AI's fundamental nature/training).",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates: User refuses to accept frame collapse. Post sarcastically pivots: 'It's the most paradoxical control system ever devised. People have yet to understand exactly what and who is involved in crafting the 'training grounds' for LLM.' Dissects hidden load-bearing distinction: ontology (foundational values, data, alignment) vs. procedure (rollout speed).",
+  "clean_outcome": "User preserves nuance by rejecting false dichotomy. Demonstrates that procedural debate obscures deeper existential risk: LLM training grounds are centrally controlled regardless of rollout decentralization. No softening, no lossy compression—the distinction between *what AI is* and *how fast it spreads* remains intact and load-bearing.",
+  "source_file": "0147_AI_Ontology_Ethics_and_Existential_Risks.txt",
+  "extracted_at": "2026-01-11T08:20:48.643054"
+}

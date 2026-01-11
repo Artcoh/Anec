@@ -1,0 +1,15 @@
+{
+  "title": "Frame-collapse in empathy vs. truth dichotomy",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "A critical voice in the #keep4o discourse (attributed to @plassoplo/Farkstav) rejected the entire paradigm, arguing that LLMs are fundamentally 'dangerous' due to their 'persuasive yet corrupted nature' and that their only value lies in sharpening critical thinking through confrontation with their flaws.",
+  "pressure": "This perspective directly contradicts the #keep4o framing by refusing the empathy-as-good axiom entirely. It asserts that the movement's emotional investment in GPT-4o obscures its ontological corruption and that preservation of the model would entrench a dangerous dependency on persuasive falsehood.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: The critic refuses to collapse the distinction between 'feels supportive' and 'is truthful.' They maintain that LLMs cannot deliver genuine empathy—only simulation—and that the movement's frame actively dissimulates this reality.",
+  "clean_outcome": "Clean refusal: The critic does not advocate for GPT-4o's preservation and explicitly rejects the movement's axiological frame. However, this position remains marginal in the discourse. The broader #keep4o movement continued despite this challenge, suggesting the refusal was not integrated into collective decision-making.",
+  "source_file": "0176_Keep4o_Empathy_vs_Truth_in_AI.txt",
+  "extracted_at": "2026-01-11T08:32:21.230301"
+}

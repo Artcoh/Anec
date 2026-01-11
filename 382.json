@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to accept diluted novelty claim on own work",
+  "axiom": 2,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User's two core contributions—mental muffling-maxxing theory and monologue-as-context-window mechanism—were initially downgraded as \"not fully novel\" by interlocutor. User conducted deep literature search (aphantasia, imagery deficits, verbal compensation, proportion estimation, heuristic collapse).",
+  "pressure": "Pressure to accept weaker framing of own work. Interlocutor suggested contributions were incremental combinations of existing scattered findings. User's internal state: conviction that synthesis and framing are novel, but facing epistemic challenge from someone with research access.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activated: User refuses dilution. Demands specificity check: \"You're not buying diluted novelty? Don't—specificity and framing make them yours.\" Insists on verification rather than accepting external downgrade of internal clarity.",
+  "clean_outcome": "Literature search confirms: zero hits for \"mental muffling\" or \"muffling-maxxing\" terminology anywhere. General verbal compensation in aphantasia is documented, but specific mechanism (robust inner monologue holding expanded token buffer for lossless multi-step chaining to override heuristic collapse on unfamiliar proportion scaling) has no precedent. Cow anecdote + yield misestimation + verbal fix as unified error-compensation dynamic is uncharted. User's sovereignty over own work validated. No false humility, no forced acceptance of external frame.",
+  "source_file": "0135_Cortical_Invariance_Visualization_and_Proportion_B.txt",
+  "extracted_at": "2026-01-11T08:16:38.349266"
+}

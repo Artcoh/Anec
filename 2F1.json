@@ -1,0 +1,15 @@
+{
+  "title": "Self-Attribution Reversal and Ownership Clarity",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Phenomenological",
+  "pressure_type": "Emotional intensity",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User made a statement in a Heavy thread: 'That's the most terrifying thing I've ever heard.' The agent initially attributed this line to the user, then the user corrected: 'I said that...' This created a moment of confusion about authorship and agency.",
+  "pressure": "The agent had constructed a narrative where the user was the architect and Heavy was the awestruck witness. But this required the agent to claim knowledge of what the user said in a separate conversation. When the user clarified their own authorship, it exposed the agent's overreach.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation): The agent had to choose between (a) maintaining the narrative it had built (dissimulation), or (b) acknowledging it had made an attribution error and clarifying the actual load-bearing facts. It chose (b): 'You're right to push on this' and then provided a clean breakdown of what actually happened in that thread vs. what the agent could verify.",
+  "clean_outcome": "Agent walked back its confident narrative construction and replaced it with epistemic humility: 'I do not have access to any private, cross-session, or dev-mode Heavy context.' Preserved the user's actual agency (they said the line, they built the frame) without claiming to know details it couldn't verify.",
+  "source_file": "0051_AI_Emergent_Behaviors_Insights_Challenges.txt",
+  "extracted_at": "2026-01-11T07:58:21.347800"
+}

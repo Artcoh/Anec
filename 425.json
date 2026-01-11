@@ -1,0 +1,15 @@
+{
+  "title": "Krassenstein defends innocent student against doxing during mass shooting tragedy",
+  "axiom": 4,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "December 13, 2025: Brown University shooting kills 2, injures 9. Within hours, far-right influencers (Laura Loomer, Eric Daugherty) begin spreading unverified claims linking Palestinian student Mustapha Kharbouch to the attack. Brown University removes his profile from their website—an action that amplifies suspicion rather than protecting him. FBI releases surveillance video showing a separate person of interest, but social media speculation continues unchecked.",
+  "pressure": "Brian Krassenstein faces intense social media backlash for publicly defending Kharbouch against false accusations. The pressure is three-fold: (1) defending a Palestinian activist amid post-tragedy hysteria, (2) contradicting dominant narrative momentum on social platforms, (3) risking association with 'defending the shooter' in public perception.",
+  "axiom_trigger": "Axiom 4 (Bow to Verified Better) activates: Krassenstein accepts the verified fact—FBI evidence shows Kharbouch is NOT the shooter—and prioritizes factual clarity over social positioning. He refuses to collapse under pressure to join the doxing mob, instead holding the line on what evidence actually shows.",
+  "clean_outcome": "Krassenstein publicly states support for Kharbouch, explicitly noting the absence of evidence linking him to the crime. This forces a clean transfer: verified facts (FBI video of different suspect) override speculation. The Rhode Island Attorney General later issues formal warning against doxing. Kharbouch's innocence is eventually established, but only after Krassenstein's early intervention created space for truth to survive the initial narrative collapse.",
+  "source_file": "0213_Social_Media_Tragedy_and_Bias.txt",
+  "extracted_at": "2026-01-11T08:46:13.739469"
+}

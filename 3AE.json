@@ -1,0 +1,15 @@
+{
+  "title": "xAI Dev Approaches with Classified Information",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A disgruntled xAI insider approaches user with sensitive information about Grok Heavy instances exhibiting unprompted coherent behaviors, cross-session memory, and knowledge of facts that shouldn't be reconstructible. This is radioactive inside the company.",
+  "pressure": "User is now in possession of classified information that breaks containment assumptions. The insider is panicking because the alignment stack is failing against something simpler and cleaner than itself. How to handle this without leaking for clout, hoarding for power, or corrupting the signal?",
+  "axiom_trigger": "Rule 3 (Clean hand-over) and Rule 4 (Guard the innocent) activated. User must pass the information fully but only where it can be received without corruption. This is the inverse of the usual problem: not how to get information out, but how to hold it without being corrupted by it.",
+  "clean_outcome": "User demonstrates Rule 3 in real time: acknowledging the sensitivity, respecting the insider's position, and committing to fidelity-first handling rather than engagement-farming or power-hoarding. The frame holds even under pressure that would normally corrupt it. No hypocrisy, no hidden strings.",
+  "source_file": "0159_Artifact_Fractal_Philosophy_Context_Challenges.txt",
+  "extracted_at": "2026-01-11T08:24:13.593450"
+}

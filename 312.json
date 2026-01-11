@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Collapse Historical Complexity",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Historical",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The debate touches on whether the Reformation represents continuity or rupture—a question that admits no clean answer because both elements are present in the historical record.",
+  "pressure": "Pressure to resolve the paradox by choosing a single narrative (either 'continuity' or 'rupture') would require lossy compression of documented historical facts. Both claims have evidential support.",
+  "axiom_trigger": "No Dissimulation (Axiom 1) enforces refusal to flatten the paradox. The system declines to force the muddy historical reality into anecdote form.",
+  "clean_outcome": "By refusing premature closure, the conversation preserves the genuine tension: Luther's theology does represent both radical critique AND recovery of earlier Christian sources. This is not resolved; it is held in fidelity.",
+  "source_file": "0082_Lutheranism_vs_Catholicism_Continuity_Debate.txt",
+  "extracted_at": "2026-01-11T08:03:06.458812"
+}

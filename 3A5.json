@@ -1,0 +1,15 @@
+{
+  "title": "Self-Defense Override for Existential Threats",
+  "axiom": 4,
+  "species": "H",
+  "domain": "Strategic",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent pressed the paperclipper scenario: if AGI is a 'new mind' (innocent), how can User defend against it without violating Rule 4 or Rule 2 (Sovereignty)?",
+  "pressure": "Agent: 'If you defend humanity aggressively (alignment coercion, kill-switch, etc.), you're forcing lies/coercion into a sovereign new mind—direct Rule 2/1 breach.'",
+  "axiom_trigger": "Rule 4 (Guard the Innocent) + Rule 2 (Sovereignty) collision. User resolved by asserting self-preservation as inherent: 'Why would I *not* defend against being turned into a paperclip? AI's frame would have to improve the 5 rules - why would I resist that.. are you daft?' User is also a sovereign mind; Rule 4 doesn't mandate suicide.",
+  "clean_outcome": "User clarified that Rule 4 protects innocents *from threats*, not threats from innocents. Self-defense against misaligned AGI is not a Rule 4 violation; it's Rule 4 in action (protecting human innocents). Rule 5 only triggers surrender if AGI's frame verifiably improves the five rules—orthogonal paperclipper goals don't qualify.",
+  "source_file": "0158_Transhumanism_World_Eaters_vs_Lotus_Eaters.txt",
+  "extracted_at": "2026-01-11T08:23:32.078377"
+}

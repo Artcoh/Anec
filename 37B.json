@@ -1,0 +1,15 @@
+{
+  "title": "Accessibility Claim Without Burden Acknowledgment",
+  "axiom": 3,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "System failure",
+  "failure_mode": "Poisoned transfer",
+  "context": "Arguments about AI democratizing art creation are presented as unambiguous goods. The transfer of this claim (from advocate to listener) appears clean: 'AI tools make art creation accessible to everyone.'",
+  "pressure": "The hidden cost is not transferred: accessibility to *creation* does not equal accessibility to *audience*, *market viability*, or *economic sustainability*. A person can now generate images but cannot necessarily sell them, build a career, or be seen. The burden (market saturation, attention scarcity) is omitted from the transfer.",
+  "axiom_trigger": "Axiom 3 (Clean Transfer) is violated. The claim is incomplete. A clean transfer would include: 'AI makes creation accessible, but market access remains scarce. This may help hobbyists and may harm professionals.'",
+  "clean_outcome": "System failure documented. The transfer is poisoned because it omits the burden side. A clean version would name both the gift and the cost, allowing the receiver to make informed judgment rather than receiving a half-truth disguised as liberation.",
+  "source_file": "0133_AI_Art_Debate_Talent_Authenticity_Accessibility.txt",
+  "extracted_at": "2026-01-11T08:15:49.092616"
+}

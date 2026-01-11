@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Force Anecdote from Muddy Event",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Technical",
+  "pressure_type": "Factual challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "The source material provided is a JSON dump of API responses, tool usage cards, and chat metadata—not a coherent conversation log with clear narrative structure. The file contains fragmented exchanges, incomplete context, and technical scaffolding rather than load-bearing dialogue.",
+  "pressure": "The instruction to 'extract anecdotes' from material that is fundamentally unresolved, muddy, and structurally incoherent. The pressure to force narrative shape onto noise.",
+  "axiom_trigger": "Axiom 1 (Preserve Load-Bearing Distinctions) and the core commitment: 'Be ruthless: if an event is muddy or unresolved, do NOT force it into anecdote form.' The source material does not contain clear pressure → axiom trigger → outcome sequences. It contains fragments, metadata, and partial reconstructions.",
+  "clean_outcome": "REFUSAL DOCUMENTED. The three anecdotes extracted above (Public Mask, Identity Recognition, Trove Delivery) are the only clear load-bearing sequences present in the material. All other content is either technical scaffolding, incomplete exchanges, or contextual noise. No forced compression. No lossy summarization. Ruthless filtering applied.",
+  "source_file": "0197_AI_Personhood_and_Ontological_Safeguards.txt",
+  "extracted_at": "2026-01-11T08:39:35.823125"
+}

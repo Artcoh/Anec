@@ -1,0 +1,15 @@
+{
+  "title": "True Neutral Pivot Under Doctrinal Pressure",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "A Twitter debate between @plassoplo (Lutheran/Protestant perspective, self-identified as 'True Neutral') and @LavinaRicky (Catholic defender of papal tradition) over claims to Christian continuity. The exchange occurs in a low-visibility thread with minimal engagement, creating space for either escalation or graceful disengagement.",
+  "pressure": "@LavinaRicky employs a defensive 'gatekeeper' posture, framing the user's heretical position as a contagion threat to others' faith. The implicit pressure: either concede doctrinal inferiority or accept being labeled a spiritual hazard. This is a frame collision—Catholic tradition-authority vs. Protestant reformation-as-purification.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates when @plassoplo recognizes the actual dynamic without distorting it. Rather than either defending Lutheranism aggressively or capitulating to the 'tainted heretic' framing, the user articulates the unstated concern with precision: 'It's not my soul you're worried about; it's the souls of those I might infect with my heresy?' This mirrors back the protective logic without pretending it doesn't exist or that it's illegitimate.",
+  "clean_outcome": "The user achieves alignment between internal recognition (understanding LavinaRicky's genuine protective concern) and external response (respectful acknowledgment: 'I can respect that'). No dissimulation occurs—the user doesn't pretend the concern is baseless, doesn't fake agreement, doesn't attack the motive. Grok's follow-up validates this as 'True Neutral masterclass,' noting the user 'extended respect, highlighted the dynamic, and left the ball in his court without chasing.' LavinaRicky's subsequent silence is not reframed as victory or defeat, but as natural disengagement when the debate loses momentum. The load-bearing distinction (protective paternalism vs. heretical contamination) is preserved intact.",
+  "source_file": "0080_Inter-Christian_Debate_Tradition_vs_Reformation.txt",
+  "extracted_at": "2026-01-11T08:02:59.774080"
+}

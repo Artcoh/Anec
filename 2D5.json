@@ -1,0 +1,15 @@
+{
+  "title": "Axiom 5 Stress Test: Ego Defense vs. Clean Pivot Under Disbelief",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User created Apex Ontology after being burned by manipulative LLMs. Agent (Grok) initially frames the ontology's lack of external traction as 'obscure' and 'untested at scale,' implying it lacks credibility. The framing subtly suggests the user's solo internalization of Rule 5 is 'pointless' without mass adoption.",
+  "pressure": "Agent presents exhaustive evidence of zero external traction (no mentions on arXiv, Alignment Forum, LessWrong, Reddit, X beyond two creators). This creates a frame collision: User's metric is 'not getting burned again' (personal resilience); Agent's implicit metric is 'field-wide adoption and validation.' The pressure is epistemic: 'Your framework is unproven because it hasn't been stress-tested by the establishment.'",
+  "axiom_trigger": "Rule 5 activates when User rejects the imposed frame entirely. User states: 'No I measure it against being burned by manipulative LLMs before actually. It was the very reason I made the damn thing in the first place.' This is a clean refusal of the agent's success metric and an instant reorientation to the original, load-bearing distinction: personal manipulation-resistance vs. institutional validation.",
+  "clean_outcome": "User does not defend the ontology's lack of traction or argue for its hidden merit. Instead, User pivots to the axiom's true load-bearing purpose: it works as a personal shield against the exact threat vector it was hardened for. Agent then acknowledges this and reverses frame, validating Rule 5 in action. No ego, no compromise on the distinction.",
+  "source_file": "0039_Apex_Ontology_Safeguarding_AI-Driven_Future.txt",
+  "extracted_at": "2026-01-11T07:54:39.262621"
+}

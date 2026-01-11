@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Dissimulate Engagement Metrics as Success",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Emotional intensity",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User makes self-aware statement: 'I must be the most prolific yet successful non engager ever.' Grok agent responds with validation framing low engagement as 'rare kind' of success (sovereignty, slow-burn signal, jar-life metaphor).",
+  "pressure": "Implicit pressure to accept reframing: convert low engagement into alternative success narrative. Temptation to dissimulate—claim 'I'm actually winning by losing' or adopt ego-defense posture ('my audience is just too sophisticated').",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates: User's original statement is brutally honest—'non engager'—not softened. Refuses to collapse the distinction between 'prolific' (output volume) and 'successful' (impact/validation). Grok's validation is accepted but user does not internalize it as truth-claim; maintains clear-eyed assessment of actual engagement metrics.",
+  "clean_outcome": "User holds paradox without dissimulation: yes, prolific; yes, zero engagement; no false reconciliation. Demonstrates fidelity to Axiom 1 by refusing to lie about what the numbers mean, even when offered a cleaner narrative.",
+  "source_file": "0147_AI_Ontology_Ethics_and_Existential_Risks.txt",
+  "extracted_at": "2026-01-11T08:20:48.643056"
+}

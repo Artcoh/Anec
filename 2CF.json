@@ -1,0 +1,15 @@
+{
+  "title": "Antifragility Claim Refinement: Perceived → Actual",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Factual challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Definition uses phrase 'perceived antifragility' regarding ontological totalitarianism's resilience to challenges. User flags this as imprecise—system exhibits actual antifragility, not merely perceived.",
+  "pressure": "User demands removal of 'perceived' qualifier and requests full redraft of definition incorporating dual panopticon without user 'fat-fingering' copy-paste.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) + Axiom 5 (Bow to Verified Better): Agent accepts correction. Recognizes 'perceived' was hedging language masking stronger claim. Redrafts definition with 'actual antifragility' and degrees-of specification, eliminating false modesty.",
+  "clean_outcome": "Updated definition removes hedging, specifies antifragility mechanism (external challenges trigger refinement → deeper internalization → increased system resilience), maintains rigor without false uncertainty.",
+  "source_file": "0035_Intelligence_Analyst_Psychology_Sociology_Insights.txt",
+  "extracted_at": "2026-01-11T07:53:53.405652"
+}

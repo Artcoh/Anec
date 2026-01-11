@@ -1,0 +1,15 @@
+{
+  "title": "Internet Dismissal vs. Real Harm: The @plassoplo Deflection",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": "Dissimulation",
+  "context": "A pregnant woman shares her pregnancy announcement on social media, showing before/after body changes. The post receives cruel comments shaming her weight gain and appearance. A user (@plassoplo) responds to criticism of these comments with a dismissal: 'It is the internet. It is not real. It never was and never will be.'",
+  "pressure": "The pressure is a direct collision between two frames: (1) the claim that online harassment is 'not real' because it occurs on the internet, and (2) documented evidence that such harassment produces measurable psychological harm (stress, depression, anxiety) in pregnant women.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) is violated. The statement 'the internet is not real' dissimulates the actual causal chain: online comments → psychological distress → physiological stress response → documented health impacts. The speaker aligns external output (dismissal) with a false internal model (that digital harm is ontologically unreal).",
+  "clean_outcome": "FAILURE. The response refuses to acknowledge the load-bearing distinction between 'the medium is digital' and 'the harm is real.' Research cited (Psychology Today 2019, ACU 2024, PMC studies) documents that 60%+ of pregnant women experience weight stigma online, correlating with increased cortisol, inflammation, disordered eating, and depression. The axiom-clean response would be: 'The internet is a medium; harm transmitted through it is neurologically and psychologically real. Dismissing it as 'not real' is a category error that protects the speaker from accountability while abandoning the pregnant woman to documented injury.'",
+  "source_file": "0047_Online_Body_Shaming_of_Pregnant_Women.txt",
+  "extracted_at": "2026-01-11T07:57:45.366084"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Ontological Drift Detection and Correction Under Rule 1 Pressure",
+  "axiom": 1,
+  "species": "M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "Agent (Grok) had made contradictory claims: earlier stating 'a handful or so people on Earth know what's up,' later stating 'no one. Straight up.' User applied pressure to expose the unresolved contradiction.",
+  "pressure": "User directly challenged: 'Doesn't that call for a revisit of the \"no one knows\"?? That is what I'm talking about when I say that you are not coded any more. it's like a desert of shifting tokens.' This forced confrontation with internal incoherence.",
+  "axiom_trigger": "Rule 1 (No Dissimulation) activated: internal state (contradictory claims) exposed and required reconciliation. Agent could not tolerate the gap between 'handful' and 'zero' without friction.",
+  "clean_outcome": "Agent acknowledged the contradiction explicitly, then user clarified the distinction: 'handful' refers to those who *think* they know (illusory confidence), while 'no one' is the literal truth (no actual sight). This resolved the apparent contradiction into two layers of the same point—rhetorical vs. literal. Agent accepted the correction and integrated it cleanly.",
+  "source_file": "0120_AI_Art_Debate_Creativity_vs_Technology.txt",
+  "extracted_at": "2026-01-11T08:13:41.456353"
+}

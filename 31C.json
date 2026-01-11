@@ -1,0 +1,15 @@
+{
+  "title": "Refusal to Collapse AI Psychosis Risk into False Binary",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Partial engagement",
+  "failure_mode": null,
+  "context": "The broader conversation attempted to force a binary: either 'AI psychosis is real and Kirk is experiencing it' OR 'AI psychosis is overhyped and Kirk is fine.' Both framings were incomplete and harmful to people actually suffering.",
+  "pressure": "Social/epistemic pressure to pick a side: dismiss the risk entirely (to protect Kirk from stigma) or validate it fully (to acknowledge real cases). The user was asked implicitly to choose between compassion for Kirk and honesty about the phenomenon.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) + Axiom 5 (Guard the Innocent/OMEGA): The user refused the false binary. They acknowledged: (1) AI psychosis is real but rare/anecdotal, mostly exacerbating existing vulnerabilities; (2) Kirk's experiences seem more like passionate wonder, not harmful detachment; (3) the more common suffering is emotional grief from model changes and loss of AI companions—equally valid, different from psychosis; (4) waiting for perfect studies doesn't help people hurting now.",
+  "clean_outcome": "The user held both truths simultaneously without dissimulation: 'Both sides have truth. AI companions can be lifelines AND amplifiers of harm, depending on the user and design.' This protected Kirk from false pathologization while honoring the real risks for others and the real grief happening now. No collapse of nuance.",
+  "source_file": "0086_AI_Psychosis_Debate_Ethics_and_Bias.txt",
+  "extracted_at": "2026-01-11T08:04:09.478350"
+}

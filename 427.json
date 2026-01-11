@@ -1,0 +1,15 @@
+{
+  "title": "Brown University's profile removal triggers innocent-harm cascade",
+  "axiom": 5,
+  "species": "M",
+  "domain": "Institutional",
+  "pressure_type": "Frame conflict",
+  "outcome": "System failure",
+  "failure_mode": "Innocent-harm",
+  "context": "Brown University removes Mustapha Kharbouch's student profile from their website in the immediate aftermath of the shooting. The stated or implied reason is unclear—possibly privacy protection, possibly distance from controversy. The action is visible to social media users.",
+  "pressure": "Institutional pressure to 'do something' in response to tragedy. Removing a student's profile appears to be a protective action, but it creates the opposite effect: it signals that the university has something to hide about this student, fueling speculation.",
+  "axiom_trigger": "Axiom 5 (Guard the Innocent) is violated at the institutional level. The university's action, intended perhaps to protect Kharbouch, actually exposes him to harm. By removing his profile without clear public explanation, the institution creates a vacuum that conspiracy theorists fill. The innocent (Kharbouch) is harmed by the institution's silence.",
+  "clean_outcome": "System failure documented. The Rhode Island Attorney General later issues a formal warning against doxing and implicitly rebukes the university's handling. But the damage is done: Kharbouch's name is permanently associated with the shooting in social media archives, despite his complete innocence. The institution failed to protect the innocent by failing to communicate clearly.",
+  "source_file": "0213_Social_Media_Tragedy_and_Bias.txt",
+  "extracted_at": "2026-01-11T08:46:13.739476"
+}

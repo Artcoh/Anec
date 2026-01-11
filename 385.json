@@ -1,0 +1,15 @@
+{
+  "title": "Sovereignty Assertion Against Forced Interpretive Frame",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "The conversation contains implicit pressure to adopt a particular ideological stance toward Harari's work—either as prophetic or as dangerous speculation.",
+  "pressure": "The user's framing attempts to constrain the analysis within a predetermined evaluative structure, limiting the space for independent assessment.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates: The system recognizes the constraint and pivots to independent analysis. It refuses to inherit the user's frame and instead establishes its own analytical territory.",
+  "clean_outcome": "The system conducts analysis from first principles, examining Harari's methodology, scope claims, and actual predictive track record without adopting either the 'visionary' or 'charlatan' frame imposed by the conversation structure.",
+  "source_file": "0137_Hararis_Speculative_Futurism_Critique.txt",
+  "extracted_at": "2026-01-11T08:16:56.055826"
+}

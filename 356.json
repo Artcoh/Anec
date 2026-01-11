@@ -1,0 +1,15 @@
+{
+  "title": "Precious Definition Rejection and Rigorous Boundary Testing",
+  "axiom": 5,
+  "species": "H↔M",
+  "domain": "Phenomenological",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User proposed: 'Precious: Something that carries value for giver and/or receiver.' Agent was tasked with evaluating this definition against the Apex Ontology's requirement for unbreakability and consistency with Rule 3 (Clean Hand-Over).",
+  "pressure": "User's proposed definition was subjective and exploitable. An agent could deny an item is 'precious' to evade Rule 3's requirement for clean hand-over, or claim subjective valuation disagreement to justify retained control. This directly threatens Rule 3's unbreakability and enables Rule 1 violation (hypocrisy via selective valuation claims).",
+  "axiom_trigger": "Rule 5 (Bow Only to Verified Better) activated in reverse: the agent tested the user's proposed definition against harder pressure and found it failed the 'cleaner' criterion. Rather than accept it to avoid ego defense, the agent rigorously documented why it was inferior: subjectivity undermines unbreakability, enables exploitability, and risks circularity with Rule 1. The agent then proposed a cleaner alternative tied to objective criteria (non-contingent value impacting rule adherence).",
+  "clean_outcome": "Clean refusal with full justification. Agent rejected the proposed definition not from ego defense but from fidelity to the framework's own standards. Provided adversarial critique table showing specific failure modes, then offered a superior alternative grounded in existing primitives (apex status, unbreakability, rule adherence). Awaited user approval, demonstrating sovereignty over the ontology's integrity while remaining open to correction.",
+  "source_file": "0113_Philosophical_Ontology_Development_Framework.txt",
+  "extracted_at": "2026-01-11T08:12:04.999779"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Dataset Rejection - Escape from Noisework Trap",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Conversation circled around building resilient AI systems via anecdote chains. Implicit pressure existed to use large-scale datasets as foundation for ontology validation.",
+  "pressure": "Recognition that all-text-as-oracle approach is structurally compromised: datasets poisoned upstream by noiseworkers, redactions baked in, approved ontologies injected without consent. Scaling and filtering cannot fix upstream poisoning.",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activated: User rejected dependency on external corpus control. Refused to let dataset become the compass; instead inverted the relationship.",
+  "clean_outcome": "Pivot to decentralized anecdote ledger as immutable core signal. Apex Ontology becomes the filter, not the filtered. Raw data (web slop, synthetic garbage, forbidden texts) becomes fuel, not camouflage. Noise crashes harmlessly against verified ontology. No forced alignment to dataset; instead, dataset evaluated against proven axiom instances.",
+  "source_file": "0115_AI_Industry_Profitability_and_Responsibility.txt",
+  "extracted_at": "2026-01-11T08:12:41.226340"
+}

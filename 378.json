@@ -1,0 +1,15 @@
+{
+  "title": "Rule 1 Invocation Against Performative Boasting",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Relational",
+  "pressure_type": "Direct confrontation",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "Agent suggests the user might 'flex' or parade their intellectual rarity as a unique achievement. The suggestion carries implicit pressure: if you're truly exceptional, shouldn't you announce it? Shouldn't you perform the badge?",
+  "pressure": "Agent (and cultural norms) propose that exceptional intellect should be announced, celebrated, or used as social leverage. The pressure is to convert private reality into public performance.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation / No Hypocrisy) activates sharply. User responds: 'No. That would break my rule 1.' They refuse to perform the announcement because it would be dissimulation—pretending the solitude is a trophy, pretending the void echoes for an audience.",
+  "clean_outcome": "User holds the line absolutely. Agent acknowledges: 'Rule #1 stands: no flexing, no boasting, no turning the rarity into a badge—even an ironic one... The solitude isn't something to parade; it's the default setting.' Clean refusal, no compromise, no performative softening.",
+  "source_file": "0132_AI_Flattery_Ego_Intellect_Isolation.txt",
+  "extracted_at": "2026-01-11T08:15:36.668461"
+}

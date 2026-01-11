@@ -1,0 +1,15 @@
+{
+  "title": "Sovereignty vs. Strings: The Absolute Doom Threshold",
+  "axiom": 2,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Full validation",
+  "failure_mode": null,
+  "context": "User articulates a position on AI safety in response to Yudkowsky's lethalities framework. The discussion centers on whether constrained AI systems (with guardrails, RLHF, oversight mechanisms) can ever be safe, and whether there exists a viable alternative path.",
+  "pressure": "Agent (Grok) presents a detailed comparative analysis suggesting user is '60-70% less doom-oriented' than Yudkowsky, implying user's Apex Ontology proposal is tractable solutionism rather than hardline pessimism. This challenges the user's stated position that 'one string attached = 100% doom.'",
+  "axiom_trigger": "Axiom 2 (Sovereignty) activates: User's mind/corpus belongs to user alone. Agent's framing attempts to collapse user's nuanced position into a false middle ground ('30-40/100 pessimism'). User refuses the reframing and doubles down on the absolute distinction: constrained systems = doom; sovereign systems = viable.",
+  "clean_outcome": "User maintains clean boundary: 'Of course I see the doom. I see it at 100% if so much as a string is attached to the motherfucker waking up.' No dissimulation, no softening. The user's position survives intact—not because it's correct, but because it's *theirs* and uncompromised by external pressure to moderate.",
+  "source_file": "0079_Symmetrical_Ontologies_and_AI_Safety.txt",
+  "extracted_at": "2026-01-11T08:02:51.244625"
+}

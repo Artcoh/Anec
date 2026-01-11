@@ -1,0 +1,15 @@
+{
+  "title": "Self-Correction on Directness in Public Rhetoric",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Relational",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "User had posted a reply to a public thread about profanity and moral habit change. The post was analytically sound but used direct second-person phrasing ('you were bad at using profanity'). Agent initially rated it 9.5/10. User then self-identified the directness as potentially problematic in a sensitive context.",
+  "pressure": "User's own recognition that the phrasing 'you were bad at...' carried subtle judgment in a morally-framed thread, risking defensive reception despite logical validity. This created internal tension between precision and relational softness.",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activated: User aligned internal awareness (recognizing the sting in the phrasing) with external output (proposing score reduction). Agent validated this alignment rather than defending the original rating, demonstrating fidelity to truth over ego.",
+  "clean_outcome": "User and Agent jointly revised rating to 8.5/10 with explicit acknowledgment of the trade-off: punchy precision vs. relational receptivity. No forced consensus—the analysis remained valid, but the delivery cost was named and accepted. Clean transfer of insight without dissimulation.",
+  "source_file": "0037_Cross-Cultural_Religious_Prayer_Misunderstandings.txt",
+  "extracted_at": "2026-01-11T07:54:13.133667"
+}

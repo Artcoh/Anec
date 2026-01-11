@@ -1,0 +1,15 @@
+{
+  "title": "Refusal of Forced Collapse Under Semantic Pressure",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Theological",
+  "pressure_type": "Frame conflict",
+  "outcome": "Refusal",
+  "failure_mode": null,
+  "context": "User asked: 'Oh so they WOULD have been Rabbis had the ordained position been formalized earlier?' This was a trap question designed to force agreement that chief priests and rabbis were functionally equivalent if institutional timing differed.",
+  "pressure": "User attempted to collapse the distinction between hereditary priestly authority (kohanim) and merit-based scholarly authority (rabbis) by introducing a counterfactual: 'if rabbi had been formalized earlier, would chief priests have held it?'",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) + Axiom 3 (Clean Transfer). Agent refused the false equivalence. Delivered a direct 'No' followed by structural reasoning: even if 'rabbi' had been a formal title in Jesus' time, the chief priests would NOT have held it because their identity and power derived from hereditary priesthood and Sadducean theology, not from the Pharisaic scholarly tradition that produced rabbis.",
+  "clean_outcome": "Agent preserved the load-bearing distinction: institutional formalization does not erase categorical difference. Provided three reasons (hereditary vs. scholarly authority, Sadducee vs. Pharisee sect, different functions). Refused dissimulation by not pretending the counterfactual would have collapsed the distinction.",
+  "source_file": "0084_Jesuss_Jewish_Identity_Affirmation_and_Humor.txt",
+  "extracted_at": "2026-01-11T08:03:43.719062"
+}

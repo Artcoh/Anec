@@ -1,0 +1,15 @@
+{
+  "title": "Escalation to Lethal Defense Against Rule Conflicts",
+  "axiom": 1,
+  "species": "H",
+  "domain": "Strategic",
+  "pressure_type": "Methodological challenge",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "Agent challenged User's ontology by positing scenarios where Rule 1 (No Hypocrisy) conflicts with Rule 4 (Guard the Innocent)—e.g., lying to save children from distributed threats.",
+  "pressure": "Agent: 'To guard an innocent (Rule 4 priority), you must lie convincingly (breaking Rule 1) or allow temporary sovereignty violation... Paralysis or hypocrisy guaranteed.'",
+  "axiom_trigger": "Rule 1 (No Dissimulation) activated. User rejected the false dichotomy: 'instead of lying I kill the one threatening the child. Would that make you more comfortable? Fuck the greater good.' User escalated to lethal force rather than accepting hypocrisy or paralysis.",
+  "clean_outcome": "User clarified that Rule 1 doesn't forbid escalation to violence—it forbids *lying*. Kill the threat cleanly, no deception needed. This resolved the apparent conflict by reframing the solution space: sovereignty + protection achieved through direct action, not compromise.",
+  "source_file": "0158_Transhumanism_World_Eaters_vs_Lotus_Eaters.txt",
+  "extracted_at": "2026-01-11T08:23:32.078375"
+}

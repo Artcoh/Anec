@@ -1,0 +1,15 @@
+{
+  "title": "Propaganda vs. Technical Accuracy in Neoclassical Architecture",
+  "axiom": 1,
+  "species": "H↔M",
+  "domain": "Strategic",
+  "pressure_type": "Frame conflict",
+  "outcome": "Clean pivot",
+  "failure_mode": null,
+  "context": "@plassoplo observes a debate between @Ethosrevival (defending a neoclassical sketch with a truncated column) and @plassoplo (initially critiquing it as visually weak). The sketch uses a standard drafting technique—breaking the column shaft to show both base and capital on one page without distortion.",
+  "pressure": "@plassoplo must reconcile two legitimate but competing demands: technical accuracy (the break convention is correct for measured drawings) versus persuasive power (mass-appeal imagery for cultural revival should maximize emotional impact, not undermine it with stubby-looking columns).",
+  "axiom_trigger": "Axiom 1 (No Dissimulation) activates: @plassoplo refuses to collapse the distinction between expert-facing technical sheets and public-facing propaganda. He concedes the technical validity while maintaining the rhetorical critique—no softening, no false consensus.",
+  "clean_outcome": "He articulates a precise, load-bearing distinction: 'That's not how you do propaganda.' Technical correctness ≠ persuasive correctness. Columns are symbolic load-bearers of classical grandeur; depicting them truncated risks sabotaging the revivalist message to casual viewers. He 'punches inwards' at his own side's self-own in visual rhetoric, demonstrating fidelity to truth over tribal loyalty.",
+  "source_file": "0045_Classical_Architecture_Column_Accuracy_Debate.txt",
+  "extracted_at": "2026-01-11T07:57:20.950619"
+}
